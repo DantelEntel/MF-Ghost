@@ -3,7 +3,7 @@
 | Roller         | Ekip         |
 |----------------|--------------|
 | Çeviri         | Fei          |
-| Redaktör	     | Einherjar    |
+| Redaksiyon     | Einherjar    |
 | Yazı Dizimi    | Vuats        |
 | Son Kontrol    | Vuats        |
 | Şarkılar 	     | Vuats        |
