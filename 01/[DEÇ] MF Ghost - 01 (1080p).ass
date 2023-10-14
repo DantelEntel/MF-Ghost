@@ -1,0 +1,1029 @@
+﻿[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cronos Pro,72,&H00FFFFFF,&H000000FF,&H00000000,&H34030310,-1,0,0,0,100,100,0,0,1,3,1.5,2,250,250,65,0
+Style: Alt,Cronos Pro,72,&H00FFFFFF,&H000000FF,&H008D2A00,&H34030310,-1,0,0,0,100,100,0,0,1,3,1.5,2,250,250,65,0
+Style: an8,Cronos Pro,72,&H00FFFFFF,&H000000FF,&H00000000,&H34030310,-1,-1,0,0,100,100,0,0,1,3,1.5,8,250,250,40,0
+Style: vuatsigns,Cronos Pro,70,&H00FFFFFF,&H000000FF,&H00000000,&H34030310,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: ed,FOT-TsukuMin Pro L,69,&H00FFFFFF,&H000000FF,&H00979797,&H34C8C8C8,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,25,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: Fei}{Redaksiyon: Einherjar}{Yazı Dizimi: Vuats}{Şarkılar: Vuats}{Son Kontrol: Vuats}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:39.77,0:00:43.35,Default,,0,0,0,,{\i1}İklim krizi ve fosil yakıtların\Nazalmasıyla birlikte...
+Dialogue: 20,0:00:43.70,0:00:47.45,Default,,0,0,0,,{\i1}...içten yanmalı motorların\Nüretimi durduruldu.
+Dialogue: 20,0:00:47.76,0:00:51.77,Default,,0,0,0,,{\i1}Bununla birlikte, yüksek performanslı\Nspor arabaların da üretimi bitti.
+Dialogue: 20,0:00:52.60,0:00:55.29,Default,,0,0,0,,{\i1}Bu arabaların anısına Japonya'da...
+Dialogue: 20,0:00:55.29,0:00:59.66,Default,,0,0,0,,{\i1}...yeni bir otomobil sporu\Ndüzenlenmeye başlandı.
+Dialogue: 20,0:01:00.15,0:01:04.66,Default,,0,0,0,,{\i1}An itibarıyla 30 milyon izleyicisi olan bu spor...
+Dialogue: 20,0:01:05.23,0:01:07.81,Default,,0,0,0,,{\i1}...tüm dünyada büyük ses getirdi.
+Dialogue: 20,0:01:09.90,0:01:14.64,Default,,0,0,0,,{\i1}Tek kuralın, ağırlık başına\Ntutunma oranının eşit olması...
+Dialogue: 20,0:01:15.36,0:01:18.76,Default,,0,0,0,,{\i1}...nefes kesen yarışlara gebe oldu.
+Dialogue: 20,0:01:19.90,0:01:22.97,Default,,0,0,0,,{\i1}Bu yarışlaraysa MFG dendi.
+Dialogue: 20,0:01:30.68,0:01:33.82,an8,,0,0,0,,{\i1}MFG sezonunun açılışında, Odawara Pikes Peak'te...
+Dialogue: 20,0:01:33.82,0:01:36.82,an8,,0,0,0,,{\i1}...seçimlerin ikinci günü başlıyor!
+Dialogue: 20,0:01:39.09,0:01:40.29,an8,,0,0,0,,{\i1}Son 10 saniye!
+Dialogue: 20,0:01:40.29,0:01:42.74,an8,,0,0,0,,{\i1}9, 8, 7.
+Dialogue: 20,0:01:43.21,0:01:46.16,an8,,0,0,0,,{\i1}6, 5, 4.
+Dialogue: 20,0:01:46.16,0:01:48.92,an8,,0,0,0,,{\i1}3, 2, 1.
+Dialogue: 20,0:01:59.09,0:02:01.46,Default,,0,0,0,,Hadi Aiba, sende bu!
+Dialogue: 20,0:02:01.77,0:02:03.33,Default,,0,0,0,,Uçuyor resmen!
+Dialogue: 20,0:02:04.28,0:02:06.06,Default,,0,0,0,,MFG mi?
+Dialogue: 20,0:02:06.32,0:02:10.17,Default,,0,0,0,,Keşke bir kez de olsa yerinde izleyebilseydim.
+Dialogue: 20,0:02:10.17,0:02:13.77,Default,,0,0,0,,Yapacak bir şey yok.\NKenarlar izleyiciye kapalı.
+Dialogue: 20,0:02:13.77,0:02:18.65,Default,,0,0,0,,Zaten geçenki patlamadan dolayı\Nhavada hala volkanik gazlar varmış.
+Dialogue: 20,0:02:18.94,0:02:21.91,Default,,0,0,0,,{\i1}İngiltere'deki arkadaşlarım bile\Nsoluksuz takip ediyordu.
+Dialogue: 20,0:02:21.91,0:02:24.44,Default,,0,0,0,,{\i1}Ana vatanı Japonya'da bu ilgi normal.
+Dialogue: 20,0:02:25.61,0:02:30.40,Default,,0,0,0,,{\i1}Ama şu Japon haritalarını\Nanlayamamam sıkıntı.
+Dialogue: 20,0:02:32.24,0:02:33.92,Default,,0,0,0,,Alo, Vakana.
+Dialogue: 20,0:02:33.92,0:02:36.71,Default,,0,0,0,,{\i1}Şu İngiliz çocuk bugün geliyordu, değil mi?
+Dialogue: 20,0:02:36.71,0:02:40.42,Default,,0,0,0,,Aslında yarı İngiliz yarı Japon.
+Dialogue: 20,0:02:40.42,0:02:42.18,Default,,0,0,0,,O kadar da umutlanma bence.
+Dialogue: 20,0:02:42.64,0:02:45.29,Default,,0,0,0,,İngiliz denince aklımda\Nhavalı bir tip belirmiyor.
+Dialogue: 20,0:02:45.61,0:02:48.33,Default,,0,0,0,,{\i1}Niye öyle diyorsun ki ya!..
+Dialogue: 20,0:02:48.33,0:02:50.57,Default,,0,0,0,,{\i1}Yakışıklı çıkarsa tanıştırırsın işte!
+Dialogue: 20,0:02:51.13,0:02:52.98,Default,,0,0,0,,Hayret bir şeysin Vakana.
+Dialogue: 20,0:02:52.98,0:02:57.19,Default,,0,0,0,,Yakışıklıların peşinden koştuğun için\Nsürekli sıkıcı tiplerle takılıyorsun...
+Dialogue: 20,0:02:58.33,0:03:00.67,Default,,0,0,0,,{\i1}İlk görüşte aşk dediğin\Nanimelerde olur sadece.
+Dialogue: 20,0:03:02.17,0:03:04.66,Alt,,0,0,0,,Affedersin, ben Aiba Şun.
+Dialogue: 20,0:03:04.91,0:03:10.29,Alt,,0,0,0,,Geçen sene dokuzuncu sıradaydım...\NŞey, seni gördüğüm andan beri...
+Dialogue: 20,0:03:11.21,0:03:13.50,Alt,,0,0,0,,N-Neyse!\NHislerimde ciddiyim!
+Dialogue: 20,0:03:13.72,0:03:14.69,Alt,,0,0,0,,Üzgünüm.
+Dialogue: 20,0:03:14.69,0:03:15.85,Alt,,0,0,0,,Düşünmedin bile!
+Dialogue: 20,0:03:15.85,0:03:20.22,Alt,,0,0,0,,Hakkımda hiçbir şey bilmemenize rağmen\Nfarklı bir beklentiye mi girmiştiniz?
+Dialogue: 20,0:03:20.42,0:03:22.33,Alt,,0,0,0,,B-Bekle lütfen!
+Dialogue: 20,0:03:22.64,0:03:25.30,Alt,,0,0,0,,MFG Melekleri sayfasında...
+Dialogue: 20,0:03:25.30,0:03:28.02,Alt,,0,0,0,,...hakkında hiçbir bilgi\Nolmayan o kişi sensin, değil mi?
+Dialogue: 20,0:03:28.02,0:03:31.35,Alt,,0,0,0,,En azından adını söyler misin?
+Dialogue: 20,0:03:34.37,0:03:36.55,Alt,,0,0,0,,MFGM Yedi.
+Dialogue: 20,0:03:36.55,0:03:40.11,Alt,,0,0,0,,{\t(2050,3550,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}İsterseniz Yedi Numara da diyebilirsiniz.
+Dialogue: 20,0:03:40.49,0:03:45.70,Default,,0,0,0,,{\i1}Görünüşün yalnızca kıyafetlerden ibaret.\N Gerçek kişiliğini yansıtmıyor.
+Dialogue: 20,0:03:46.32,0:03:50.54,Default,,0,0,0,,{\i1}Kızların %99'u bana katılmaz belki ama...
+Dialogue: 20,0:03:50.54,0:03:55.27,Default,,0,0,0,,{\i1}...kendimce yakışıklı olduğunu\Ndüşündüğüm birine aşık olmak istiyorum.
+Dialogue: 20,0:03:57.49,0:03:58.92,Default,,0,0,0,,Ben geldim.
+Dialogue: 20,0:03:59.16,0:04:01.00,Default,,0,0,0,,Geciktin, Ren.
+Dialogue: 20,0:04:01.36,0:04:03.17,Default,,0,0,0,,Gel hadi, tanıştırayım sizi.
+Dialogue: 20,0:04:03.69,0:04:08.09,Default,,0,0,0,,İşe gittiğim için gecikeceğimi\Nsabah anneme söylemiştim.
+Dialogue: 20,0:04:14.81,0:04:17.75,Default,,0,0,0,,{\alpha&H60&}Bay Kanata, Kanata Rivington.
+Dialogue: 20,0:04:17.75,0:04:20.01,Default,,0,0,0,,{\alpha&H60&}Bu öğlen geldi.
+Dialogue: 20,0:04:20.01,0:04:24.04,Default,,0,0,0,,{\alpha&H60&}İlk kez yurt dışına çıktığı için\Nbiraz zorlanıyormuş.
+Dialogue: 20,0:04:24.04,0:04:26.62,Default,,0,0,0,,{\alpha&H60&}Ona yardımcı olursan sevinirim Ren.
+Dialogue: 20,0:04:28.29,0:04:31.52,Default,,0,0,0,,{\alpha&H60&}Memnun oldum, Ren Hanım.
+Dialogue: 20,0:04:31.52,0:04:33.06,Default,,0,0,0,,{\alpha&H60&\t(700,900,\alpha&H00&)}Bana Kanata diyebilirsin.
+Dialogue: 20,0:04:36.79,0:04:38.53,Default,,0,0,0,,B-Ben...
+Dialogue: 20,0:04:38.53,0:04:41.52,Default,,0,0,0,,Şey, ödevlerim var da...
+Dialogue: 20,0:04:44.97,0:04:47.80,Default,,0,0,0,,Ergenlik çağında olmasına ver.
+Dialogue: 20,0:04:48.28,0:04:52.43,Default,,0,0,0,,Bu arada Japoncan\Nbeklediğimden çok daha iyi.
+Dialogue: 20,0:04:52.43,0:04:55.23,Default,,0,0,0,,Çocukken annem öğretmişti.
+Dialogue: 20,0:04:56.14,0:04:57.21,Default,,0,0,0,,Öyle demek.
+Dialogue: 20,0:04:57.72,0:05:00.69,Default,,0,0,0,,Katherine'e olanları\Nduyduğumda çok üzüldüm.
+Dialogue: 20,0:05:01.37,0:05:05.49,Default,,0,0,0,,Onun gençliğini hatırlatıyorsun bana...
+Dialogue: 20,0:05:09.93,0:05:10.99,Default,,0,0,0,,{\i1}Eyvah!
+Dialogue: 20,0:05:11.61,0:05:14.25,Default,,0,0,0,,{\i1}Trafoya döndüm resmen!
+Dialogue: 20,0:05:15.28,0:05:17.04,Default,,0,0,0,,{\i1}Neden kalbim böyle hızlı atıyor?
+Dialogue: 20,0:05:17.42,0:05:20.71,Default,,0,0,0,,{\i1}Hani insanları dış görünüşlerine\Ngöre değerlendirmiyordun!
+Dialogue: 20,0:05:21.48,0:05:24.82,Default,,0,0,0,,{\i1}Öyleyse... Bu his neyin nesi?
+Dialogue: 20,0:05:29.58,0:05:31.23,Default,,0,0,0,,Günaydın, Ren!
+Dialogue: 20,0:05:31.82,0:05:32.93,Default,,0,0,0,,Vakana.
+Dialogue: 20,0:05:32.93,0:05:34.99,Default,,0,0,0,,Söyle baki'm. Nasıldı?
+Dialogue: 20,0:05:34.99,0:05:35.87,Default,,0,0,0,,Ne?
+Dialogue: 20,0:05:35.87,0:05:39.55,Default,,0,0,0,,Belli değil mi?\Nİngiltere'den gelen misafiriniz.
+Dialogue: 20,0:05:40.32,0:05:42.40,Default,,0,0,0,,Aslında... Bilmiyorum.
+Dialogue: 20,0:05:42.40,0:05:46.30,Default,,0,0,0,,O nasıl oluyor ya?\NEn azından fotosunu gösteriver!
+Dialogue: 20,0:05:46.30,0:05:48.34,Default,,0,0,0,,Çekmedim ki.
+Dialogue: 20,0:05:48.34,0:05:51.66,Default,,0,0,0,,Bir süreliğine bizde kalacakmış,\Ngelip kendin gör istersen.
+Dialogue: 20,0:05:51.91,0:05:56.33,Default,,0,0,0,,Harika olur! Yarı İngiliz biriyle\N aynı evi paylaşacaksın demek...
+Dialogue: 20,0:05:56.33,0:05:59.88,Default,,0,0,0,,Peki Japonya'ya niye gelmiş?\N Tatil için falan mı?
+Dialogue: 20,0:05:59.88,0:06:04.45,Default,,0,0,0,,Bilmem. Şimdi fark ettim de,\Nhiçbir şey sormadım ki.
+Dialogue: 20,0:06:10.51,0:06:12.01,Default,,0,0,0,,Burası mı?
+Dialogue: 20,0:06:14.93,0:06:16.11,Default,,0,0,0,,Affedersiniz.
+Dialogue: 20,0:06:16.11,0:06:18.42,Default,,0,0,0,,Tam vaktinde geldin!
+Dialogue: 20,0:06:18.42,0:06:21.65,Default,,0,0,0,,Şey...\N{\fnFOT-Humming Std B}Are you Kanata Rivington?
+Dialogue: 20,0:06:21.65,0:06:23.97,Default,,0,0,0,,Siz de Ogata bey olmalısınız.
+Dialogue: 20,0:06:24.31,0:06:26.36,Default,,0,0,0,,Memnun oldum. Kanata ben.
+Dialogue: 20,0:06:26.83,0:06:29.82,Default,,0,0,0,,Japonca biliyor muydun sen? Süper.
+Dialogue: 20,0:06:30.24,0:06:34.00,Default,,0,0,0,,Şu ünlü İngiliz yarış okuluna gitmiştin, değil mi?
+Dialogue: 20,0:06:34.00,0:06:38.23,Default,,0,0,0,,Bay Saiyonji söyleyince\N dalga geçiyor sanmıştım.
+Dialogue: 20,0:06:39.23,0:06:40.76,Default,,0,0,0,,Biliyorsundur ama...
+Dialogue: 20,0:06:40.76,0:06:45.88,Default,,0,0,0,,...MFG'de ağırlık başına tutunma oranının\N sabit olması gibi tuhaf bir kural var.
+Dialogue: 20,0:06:46.75,0:06:50.00,Default,,0,0,0,,Çok fazla modifikasyon gerektirmeyen,\N yüksek güç ve iyi tutuşa sahip olan...
+Dialogue: 20,0:06:50.00,0:06:52.05,Default,,0,0,0,,...Avrupa araçları bu sporda bir numara.
+Dialogue: 20,0:06:52.82,0:06:56.77,Default,,0,0,0,,Bu yüzden bu kurala\N"Parayı veren düdüğü çalar" kuralı da diyoruz. {##}
+Dialogue: 20,0:06:57.33,0:07:01.97,Default,,0,0,0,,Yani sana MFG'deki \Ndiğer araçlarla rekabet edebilecek...
+Dialogue: 20,0:07:01.97,0:07:04.25,Default,,0,0,0,,...bir araç sağlama imkanım yok.
+Dialogue: 20,0:07:04.25,0:07:05.73,Default,,0,0,0,,Farkındayım.
+Dialogue: 20,0:07:06.03,0:07:10.20,Default,,0,0,0,,Ama MFG tecrübesi yaşamak bile\Nbeni mutlu etmeye yeter.
+Dialogue: 20,0:07:10.60,0:07:14.66,Default,,0,0,0,,Tamamdır! Öyleyse elimden\Ngeldiğince arkanda olacağım!
+Dialogue: 20,0:07:16.65,0:07:18.25,Default,,0,0,0,,Arabaya bakalım mı?
+Dialogue: 20,0:07:24.00,0:07:25.42,Default,,0,0,0,,Vay.
+Dialogue: 20,0:07:27.38,0:07:28.92,Default,,0,0,0,,Güzelmiş.
+Dialogue: 20,0:07:29.23,0:07:30.48,Default,,0,0,0,,Havalı duruyor.
+Dialogue: 20,0:07:30.48,0:07:34.48,Default,,0,0,0,,Çok naziksin.\N Eski moda bir üç pedallı sadece.
+Dialogue: 20,0:07:34.48,0:07:35.60,Default,,0,0,0,,Sürebilecek misin?
+Dialogue: 20,0:07:35.89,0:07:37.14,Default,,0,0,0,,No problem.
+Dialogue: 20,0:07:37.60,0:07:41.48,Default,,0,0,0,,Akademide H vitesli\Nüç pedal sürmeyi öğretmişlerdi.
+Dialogue: 20,0:07:41.70,0:07:43.92,Default,,0,0,0,,Kaydını hallettim bile.
+Dialogue: 20,0:07:43.92,0:07:46.67,Default,,0,0,0,,Elemelerin son gününde çıkacaksın.
+Dialogue: 20,0:07:55.50,0:07:56.85,Default,,0,0,0,,Ne tesadüf...
+Dialogue: 20,0:07:56.85,0:07:58.19,Default,,0,0,0,,Değil mi?
+Dialogue: 20,0:07:58.66,0:08:00.95,Default,,0,0,0,,Okuldan eve mi dönüyordunuz, Ren Hanım?
+Dialogue: 20,0:08:00.95,0:08:02.16,Default,,0,0,0,,Hanım demene gerek yok.
+Dialogue: 20,0:08:02.39,0:08:06.13,Default,,0,0,0,,Benden büyük olduğun için\Nsaygı ifadesi olmadan konuşabilirsin.
+Dialogue: 20,0:08:07.14,0:08:09.58,Default,,0,0,0,,Sen nereden dönüyordun peki, Kanata?
+Dialogue: 20,0:08:09.58,0:08:13.82,Default,,0,0,0,,Yotsuya'daki büyükelçiliği\Nziyaret etmek için Tokyo'ya gitmiştim.
+Dialogue: 20,0:08:14.25,0:08:16.85,Default,,0,0,0,,Ayrıca yeni bir hat aldım.
+Dialogue: 20,0:08:16.85,0:08:20.81,Default,,0,0,0,,Öyle mi? O zaman\N gel birbirimizi kaydedelim.
+Dialogue: 20,0:08:21.03,0:08:22.54,Default,,0,0,0,,Yanlış anlama...
+Dialogue: 20,0:08:22.54,0:08:26.77,Default,,0,0,0,,Bir şeye ihtiyacın olduğunda\Nararsın diye diyorum...
+Dialogue: 20,0:08:26.77,0:08:29.81,Default,,0,0,0,,Haklısın. Hemen halledelim.
+Dialogue: 20,0:08:37.50,0:08:41.75,Default,,0,0,0,,Dün işe gitmiştin değil mi?\N Bugün izinli miydin?
+Dialogue: 20,0:08:41.75,0:08:45.74,Default,,0,0,0,,İşim biraz düzensiz aslında.
+Dialogue: 20,0:08:45.74,0:08:49.87,Default,,0,0,0,,Çağırdıklarında iki ya da üç defa gidiyorum.\NSonraki işim birkaç hafta sonra oluyor.
+Dialogue: 20,0:08:49.87,0:08:50.96,Default,,0,0,0,,Öyle demek.
+Dialogue: 20,0:08:50.96,0:08:54.70,Default,,0,0,0,,Aslında senden bir şey isteyecektim, Kanata.
+Dialogue: 20,0:08:54.70,0:08:56.68,Default,,0,0,0,,Bir fotoğraf çekilsek olur mu?
+Dialogue: 20,0:08:56.68,0:08:58.14,Default,,0,0,0,,Fotoğraf mı?
+Dialogue: 20,0:08:58.14,0:09:01.68,Default,,0,0,0,,Arkadaşıma senden bahsetmiştim de...\NTipini çok merak etti.
+Dialogue: 20,0:09:01.99,0:09:02.96,Default,,0,0,0,,Olur mu?
+Dialogue: 20,0:09:02.96,0:09:04.64,Default,,0,0,0,,Çekiyorum. Gülümse!
+Dialogue: 20,0:09:06.77,0:09:09.23,Default,,0,0,0,,Çok güzel çıktık! Göstereyim mi?
+Dialogue: 20,0:09:10.30,0:09:12.48,Default,,0,0,0,,Fotoğraf çekilmek bana göre değil.
+Dialogue: 20,0:09:13.52,0:09:18.47,Default,,0,0,0,,Neden İngiltereden kalkıp\Nburalara kadar geldin?
+Dialogue: 20,0:09:21.11,0:09:24.66,Default,,0,0,0,,Sebebini sana söyleyebilirim\Naslında, ama başkasına söyleme.
+Dialogue: 20,0:09:25.05,0:09:27.85,Default,,0,0,0,,Japonya'ya gelmemin iki sebebi var.
+Dialogue: 20,0:09:27.85,0:09:30.73,Default,,0,0,0,,Hayır, asıl nedeni bir tane.
+Dialogue: 20,0:09:30.73,0:09:31.92,Default,,0,0,0,,Neymiş o?
+Dialogue: 20,0:09:34.35,0:09:37.19,Default,,0,0,0,,Kayıp babamı bulmak için.
+Dialogue: 20,0:09:37.98,0:09:39.45,Default,,0,0,0,,Babanı mı?
+Dialogue: 20,0:09:53.44,0:09:55.57,Default,,0,0,0,,Günaydın, Ren!
+Dialogue: 20,0:09:55.98,0:09:57.29,Default,,0,0,0,,Günaydın, Vakana.
+Dialogue: 20,0:09:57.29,0:09:58.98,Default,,0,0,0,,Göster hadi göster!
+Dialogue: 20,0:09:58.98,0:10:00.98,Default,,0,0,0,,Bunu diyeceğini biliyordum.
+Dialogue: 20,0:10:03.22,0:10:03.88,Default,,0,0,0,,İşte.
+Dialogue: 20,0:10:07.46,0:10:09.80,Default,,0,0,0,,Ne... Oha çok ateşli!
+Dialogue: 20,0:10:10.71,0:10:14.13,Default,,0,0,0,,{\i1}Kanata gerçekten bu kadar yakışıklı mı?
+Dialogue: 20,0:10:15.21,0:10:16.38,Alt,,0,0,0,,Bu...
+Dialogue: 20,0:10:16.59,0:10:19.38,Alt,,0,0,0,,20 yıl önce çekilmiş bir fotoğraf.
+Dialogue: 20,0:10:19.38,0:10:22.35,Alt,,0,0,0,,Babamın bendeki tek fotoğrafı.
+Dialogue: 20,0:10:22.74,0:10:27.99,Alt,,0,0,0,,Annem mutlu çıktığı için\Nözellikle sevdiğim bir fotoğraf.
+Dialogue: 20,0:10:27.99,0:10:30.56,Alt,,0,0,0,,Kamakura civarlarında çekilmişler.
+Dialogue: 20,0:10:30.98,0:10:37.00,Alt,,0,0,0,,Japonya'ya gelirsem mutlaka fotoğrafın çekildiği\Nyere gideceğim diye kendime söz vermiştim.
+Dialogue: 20,0:10:37.00,0:10:40.86,Alt,,0,0,0,,Kamakura'ya oldukça yakınız.\N Biliyorum oraları.
+Dialogue: 20,0:10:41.50,0:10:44.62,Alt,,0,0,0,,İstersen bulmana yardımcı olabilirim.
+Dialogue: 20,0:10:45.70,0:10:48.31,Alt,,0,0,0,,Bence fikrin çok romantik.
+Dialogue: 20,0:10:48.31,0:10:51.10,Alt,,0,0,0,,Bu yüzden bulmana yardım etmek istiyorum.
+Dialogue: 20,0:10:52.73,0:10:54.59,Alt,,0,0,0,,Ne oldu, Kanata?
+Dialogue: 20,0:10:55.56,0:10:59.05,Alt,,0,0,0,,Neden bana karşı bu kadar\Nnazik davranıyorsun?
+Dialogue: 20,0:10:59.77,0:11:04.01,Alt,,0,0,0,,Nasıl teşekkür etsem bilemiyorum.
+Dialogue: 20,0:11:04.84,0:11:08.39,Alt,,0,0,0,,Sen de baban da çok iyi insanlarsınız.
+Dialogue: 20,0:11:08.65,0:11:10.81,Alt,,0,0,0,,Ne kadar teşekkür etsem az.
+Dialogue: 20,0:11:11.28,0:11:13.55,Alt,,0,0,0,,Japonlar olağanüstü insanlar.
+Dialogue: 20,0:11:19.70,0:11:21.99,Default,,0,0,0,,Maalesef olmaz, Aiba bey.
+Dialogue: 20,0:11:22.28,0:11:24.37,Default,,0,0,0,,İnatçılığı bırak işte.
+Dialogue: 20,0:11:24.37,0:11:27.85,Default,,0,0,0,,Adını ve yaşını soruyorum sadece!
+Dialogue: 20,0:11:27.85,0:11:31.00,Default,,0,0,0,,Diğer Meleklerin profillerinde bu bilgiler var!
+Dialogue: 20,0:11:31.00,0:11:34.89,Default,,0,0,0,,Kişisel bilgileri kimseyle paylaşamayız.
+Dialogue: 20,0:11:34.89,0:11:38.39,Default,,0,0,0,,Bari sonraki yarışı hangi gün onu söyle!
+Dialogue: 20,0:11:38.39,0:11:39.97,Default,,0,0,0,,Bakayım...
+Dialogue: 20,0:11:40.30,0:11:44.11,Default,,0,0,0,,Bay Kanata Katagiri.\NŞurayı imzalayın lütfen.
+Dialogue: 20,0:11:44.11,0:11:44.89,Default,,0,0,0,,Tamamdır.
+Dialogue: 20,0:11:46.39,0:11:49.85,Default,,0,0,0,,{\i1}Yüzü hiç tanıdık gelmedi.\NÇaylak mı acaba?
+Dialogue: 20,0:11:52.04,0:11:53.18,Default,,0,0,0,,Hey, sen.
+Dialogue: 20,0:11:54.33,0:11:56.15,Default,,0,0,0,,MFG'ye mi giriyorsun?
+Dialogue: 20,0:11:56.15,0:11:57.94,Default,,0,0,0,,Evet. Siz kimdiniz?
+Dialogue: 20,0:11:58.17,0:12:01.90,Default,,0,0,0,,Ben Aiba Şun.\NGeçen yılın dokuzuncusuyum!
+Dialogue: 20,0:12:02.13,0:12:05.62,Default,,0,0,0,,Yok artık, tanıyorum sizi!\NNissan GT-R'ın Aiba'sısınız!
+Dialogue: 20,0:12:05.87,0:12:08.47,Default,,0,0,0,,Harika ya!\NTesadüfün böylesi!
+Dialogue: 20,0:12:08.47,0:12:11.63,Default,,0,0,0,,GT-R'ınız İngiltere'de bile ünlü.
+Dialogue: 20,0:12:11.63,0:12:12.50,Default,,0,0,0,,İngiltere mi?
+Dialogue: 20,0:12:12.50,0:12:15.35,Default,,0,0,0,,Aynen öyle!\Nİki gün önce geldim ben de...
+Dialogue: 20,0:12:15.35,0:12:17.64,Default,,0,0,0,,Kanata Rivi-\NYok dur...
+Dialogue: 20,0:12:17.64,0:12:21.59,Default,,0,0,0,,Kanata Katagiri ben.\NSeçmelerin son gününde yarışacağım.
+Dialogue: 20,0:12:21.95,0:12:25.30,Default,,0,0,0,,Emin misin bundan?\N MFG'den bahsediyoruz.
+Dialogue: 20,0:12:25.84,0:12:29.18,Default,,0,0,0,,Neyse gerçi.\N Karşılaşmamızın bir sebebi vardır.
+Dialogue: 20,0:12:29.18,0:12:31.64,Default,,0,0,0,,Sen alışana kadar yardımcı olayım.
+Dialogue: 20,0:12:31.95,0:12:35.73,Default,,0,0,0,,Dinle Kanata.\N Bundan sonra bana abi diyeceksin!
+Dialogue: 20,0:12:35.73,0:12:39.86,Default,,0,0,0,,Bu ülkede geleneklerimize\Nsahip çıkarız, kapiş?
+Dialogue: 20,0:12:39.86,0:12:41.57,Default,,0,0,0,,Tamam, Aiba abi!
+Dialogue: 20,0:12:41.90,0:12:45.16,Default,,0,0,0,,{\i1}Ciddi hali bile bal gibi çocuğun!
+Dialogue: 20,0:12:45.57,0:12:49.59,Default,,0,0,0,,Aç mısın? Güzel bir Japon yemeği\Nısmarlayayım, gel hadi.
+Dialogue: 20,0:12:49.59,0:12:50.49,Default,,0,0,0,,Olur abi!
+Dialogue: 20,0:12:51.14,0:12:54.41,an8,,0,0,0,,{\i1\move(960,125,960,40,1216,1215)}Parkurun 3. kısmında süresini azaltıyor!
+Dialogue: 20,0:12:54.41,0:12:56.54,an8,,0,0,0,,{\i1}Önünde sadece bir araç kaldı!
+Dialogue: 20,0:12:56.54,0:12:59.78,an8,,0,0,0,,{\i1}Michael Beckenbauer kusursuz ilerliyor!
+Dialogue: 20,0:13:00.46,0:13:04.09,Default,,0,0,0,,O Porsche normalden\Nbiraz daha kısa mı sanki?
+Dialogue: 20,0:13:04.57,0:13:09.26,Default,,0,0,0,,Cayman bu.\N911'den biraz daha küçük.
+Dialogue: 20,0:13:09.26,0:13:11.11,Default,,0,0,0,,Bunu bile bilmiyor musun?
+Dialogue: 20,0:13:12.36,0:13:15.37,Default,,0,0,0,,Beckenbauer, Porsche'nin otomobil\Nsporları alt yapısında yetişen...
+Dialogue: 20,0:13:15.37,0:13:17.48,Default,,0,0,0,,...süper elit bir yarışçı.
+Dialogue: 20,0:13:17.85,0:13:21.69,Default,,0,0,0,,Eskiden olsa Le Mans'ta boy gösterirdi.
+Dialogue: 20,0:13:22.53,0:13:25.45,Default,,0,0,0,,Bak! 1. oldu bile.
+Dialogue: 20,0:13:25.85,0:13:30.91,Default,,0,0,0,,Cayman'ın bu kadarcık gücüyle\Nnasıl bu süreyi yapabiliyor?
+Dialogue: 20,0:13:31.22,0:13:32.91,Default,,0,0,0,,Buyurun.
+Dialogue: 20,0:13:33.89,0:13:35.29,Default,,0,0,0,,Yumul bakalım.
+Dialogue: 20,0:13:35.29,0:13:36.73,Default,,0,0,0,,Gyudon güzeldir.
+Dialogue: 20,0:13:37.08,0:13:38.29,Default,,0,0,0,,Afiyet olsun.
+Dialogue: 20,0:13:40.32,0:13:42.88,Default,,0,0,0,,Bu arada Kanata, sen kaç yaşındaydın?
+Dialogue: 20,0:13:42.88,0:13:44.13,Default,,0,0,0,,19 yaşındayım.
+Dialogue: 20,0:13:44.13,0:13:45.94,Default,,0,0,0,,Amma gençmişsin.
+Dialogue: 20,0:13:45.94,0:13:48.22,Default,,0,0,0,,Aramızda 5 yıl var.
+Dialogue: 20,0:13:49.65,0:13:52.18,Default,,0,0,0,,Ne? Yoksa çubuk kullanmayı\Nbilmiyor musun?
+Dialogue: 20,0:13:52.45,0:13:55.44,Default,,0,0,0,,Hanım abla, arkadaşa kaşık alabilir miyiz?
+Dialogue: 20,0:14:00.97,0:14:02.85,Default,,0,0,0,,Bay Ogata, burada mısınız?
+Dialogue: 20,0:14:03.27,0:14:04.80,Default,,0,0,0,,Sen miydin, Kanata?
+Dialogue: 20,0:14:05.27,0:14:06.07,Default,,0,0,0,,N'abersin?
+Dialogue: 20,0:14:06.07,0:14:09.46,Default,,0,0,0,,Yardım edebileceğim bir şey var mı\Ndiye gelmiştim aslında.
+Dialogue: 20,0:14:11.40,0:14:15.25,Default,,0,0,0,,Bi' bakalım.\N Zaten mola verecektim.
+Dialogue: 20,0:14:19.12,0:14:20.08,Default,,0,0,0,,Güzelmiş.
+Dialogue: 20,0:14:20.63,0:14:24.16,Default,,0,0,0,,İngiltere'de bu kadar lezzetli\Nabur cuburlar bulamazsınız!
+Dialogue: 20,0:14:24.16,0:14:26.25,Default,,0,0,0,,Japonya inanılmaz bir yer.
+Dialogue: 20,0:14:26.25,0:14:29.72,Default,,0,0,0,,Gyudon'u da lezizdi.\NNe yesem çok lezzetli geliyor.
+Dialogue: 20,0:14:31.44,0:14:33.54,Default,,0,0,0,,Abartıyorsun biraz.
+Dialogue: 20,0:14:33.54,0:14:35.56,Default,,0,0,0,,Ama abur cuburlarımız\Ngüzeldir harbiden.
+Dialogue: 20,0:14:36.05,0:14:41.90,Default,,0,0,0,,Aslında, arabalarımdan biri \NMFG'de daha önce yarışmıştı.
+Dialogue: 20,0:14:42.29,0:14:46.76,Default,,0,0,0,,O günden beri değişiklik yapmadığımdan\N kontrolden rahatça geçecektir.
+Dialogue: 20,0:14:46.76,0:14:48.70,Default,,0,0,0,,Zaten değişikliğe pek de ihtiyacı yok.
+Dialogue: 20,0:14:48.70,0:14:50.61,Default,,0,0,0,,Sürücüsü kimdi?
+Dialogue: 20,0:14:52.03,0:14:54.24,Default,,0,0,0,,Siz mi? Vay!
+Dialogue: 20,0:14:54.24,0:14:57.24,Default,,0,0,0,,Öyle işte. Gençlik zamanlarımdı.
+Dialogue: 20,0:14:57.24,0:15:00.72,Default,,0,0,0,,O zamanlar yarışlara katılıyordum,\Ngüzel de sürüyordum aslında...
+Dialogue: 20,0:15:01.89,0:15:03.68,Default,,0,0,0,,Pek bir şey başaramadık ama.
+Dialogue: 20,0:15:05.03,0:15:07.87,Default,,0,0,0,,3. kısımdaki yokuş aşağı yol \Nbeni o kadar korkuttu ki...
+Dialogue: 20,0:15:07.87,0:15:11.30,Default,,0,0,0,,...bitiş çizgisini geçtiğimde\Niçimde heves kalmamıştı.
+Dialogue: 20,0:15:12.21,0:15:17.27,Default,,0,0,0,,Ama araba sürmektense, onları\Ntamir etmeye daha uygun olduğumu fark ettim.
+Dialogue: 20,0:15:17.80,0:15:21.79,Default,,0,0,0,,Eski model benzinli araçları\Nne kadar sevdiğimi tarif edemem.
+Dialogue: 20,0:15:25.68,0:15:27.65,Default,,0,0,0,,Burası değil sanırım.
+Dialogue: 20,0:15:28.32,0:15:30.83,Default,,0,0,0,,Arkadaki binalar tamamen farklı duruyor.
+Dialogue: 20,0:15:31.32,0:15:36.00,Default,,0,0,0,,Türbe ya da tapınakta çekildiğinden\N emindim aslında...
+Dialogue: 20,0:15:36.00,0:15:41.14,Default,,0,0,0,,Fakat şansımıza Kamakura\N böyle yerlerle dolup taşıyor.
+Dialogue: 20,0:15:41.92,0:15:45.27,Default,,0,0,0,,Tek tek hepsine gitmekten başka şansımız yok.
+Dialogue: 20,0:15:45.82,0:15:46.77,Default,,0,0,0,,Hallederiz!
+Dialogue: 20,0:15:48.78,0:15:52.81,Default,,0,0,0,,Burada olmak çok tuhaf hissettiriyor.
+Dialogue: 20,0:15:53.32,0:15:57.18,Default,,0,0,0,,Bu hisleri Japonca\Nifade etmekte zorlanıyorum.
+Dialogue: 20,0:15:57.18,0:15:58.94,Default,,0,0,0,,Nasıl yani?..
+Dialogue: 20,0:15:58.94,0:16:03.85,Default,,0,0,0,,Annem daha genç bir kızken\Nbabamla burada tanışmış.
+Dialogue: 20,0:16:04.25,0:16:09.16,Default,,0,0,0,,Birbirlerine aşık olmuşlar, birlikte yaşamaya\N başlamışlar, sonra da ben doğmuşum.
+Dialogue: 20,0:16:09.89,0:16:15.24,Default,,0,0,0,,Kamakura'da olmak o kadar\Ninanılmaz geliyor ki rüyadayım sanki.
+Dialogue: 20,0:16:15.60,0:16:19.33,Default,,0,0,0,,Kalbim sanki burası için atıyor.
+Dialogue: 20,0:16:20.14,0:16:22.83,Default,,0,0,0,,Küçüklüğümden beri\Ngelmek istediğim yerdeyim.
+Dialogue: 20,0:16:23.40,0:16:24.86,Default,,0,0,0,,Kanata...
+Dialogue: 20,0:16:26.20,0:16:29.13,Default,,0,0,0,,Hadi gel Kanata, dilek dileyelim.
+Dialogue: 20,0:16:38.18,0:16:39.84,Default,,0,0,0,,{\i1}Ciddiyete bak.
+Dialogue: 20,0:16:40.51,0:16:41.48,Default,,0,0,0,,{\i1}Çok tatlış.
+Dialogue: 20,0:16:43.53,0:16:46.65,Default,,0,0,0,,Sen ne diledin, Ren?
+Dialogue: 20,0:16:46.89,0:16:48.53,Default,,0,0,0,,Söylemem.
+Dialogue: 20,0:16:48.53,0:16:53.72,Default,,0,0,0,,Başkasına söylersen dileğin\Ntanrılara ulaşmaz derler.
+Dialogue: 20,0:16:58.79,0:17:01.40,Default,,0,0,0,,Eyvah, saate bak!
+Dialogue: 20,0:17:01.40,0:17:03.79,Default,,0,0,0,,Anne, bugün işe gidiyorum!
+Dialogue: 20,0:17:04.11,0:17:05.49,Default,,0,0,0,,Biliyorum.
+Dialogue: 20,0:17:05.49,0:17:07.44,Default,,0,0,0,,Acele edeceğim diye sakarlık yapma.
+Dialogue: 20,0:17:07.44,0:17:08.70,Default,,0,0,0,,Dikkatli ol.
+Dialogue: 20,0:17:08.70,0:17:09.88,Default,,0,0,0,,Gittim ben!
+Dialogue: 20,0:17:11.21,0:17:13.24,Default,,0,0,0,,{\i1}Ren'in bugün işi mi varmış?
+Dialogue: 20,0:17:14.46,0:17:16.85,Default,,0,0,0,,{\i1}Bugün benim de kendimce bir işim var.
+Dialogue: 20,0:17:18.69,0:17:21.85,Default,,0,0,0,,Alo. Tokyo Ana Şube'den Joyu.
+Dialogue: 20,0:17:22.26,0:17:25.25,Default,,0,0,0,,Bizzat baş organizatörden bir talep var.
+Dialogue: 20,0:17:25.57,0:17:28.44,Default,,0,0,0,,Seçme listesinde tanışmayı\Numduğu bir isim varmış.
+Dialogue: 20,0:17:29.00,0:17:31.40,Default,,0,0,0,,Kanata Rivington, 19 yaşında.
+Dialogue: 20,0:17:32.43,0:17:33.85,Default,,0,0,0,,İngiliz vatandaşı.
+Dialogue: 20,0:17:36.24,0:17:38.44,Default,,0,0,0,,Yok mu? Çok tuhaf.
+Dialogue: 20,0:17:38.90,0:17:42.41,Default,,0,0,0,,Ryosuke'nin bahsettiği\Nçocuk gelmemiş mi yani?
+Dialogue: 20,0:17:43.13,0:17:47.29,an8,,0,0,0,,{\i1}Dünya çapındaki 30 milyon MFG hayranına esenlikler!
+Dialogue: 20,0:17:47.29,0:17:50.38,Default,,0,0,0,,Bugünün yarışlarını bendeniz,\NMFG'nin yürüyen ansiklopedisi...
+Dialogue: 20,0:17:50.38,0:17:52.55,Default,,0,0,0,,...Tanaka Yoji yorumlayacak.
+Dialogue: 20,0:17:52.93,0:17:55.76,Default,,0,0,0,,Nihayet seçimlerin yedinci ve son gününe geldik.
+Dialogue: 20,0:17:55.76,0:18:00.04,Default,,0,0,0,,Bugüne gelene kadar\Nüst sıralarda çok fazla dalgalanma oldu.
+Dialogue: 20,0:18:00.62,0:18:03.08,an8,,0,0,0,,{\i1}Porsche ekibinin agresif hamleleri sayesinde...
+Dialogue: 20,0:18:03.08,0:18:07.26,an8,,0,0,0,,{\i1}...İtalya'nın büyük isimleri Ferrari ve\NLamborghini zor durumda kaldı.
+Dialogue: 20,0:18:08.05,0:18:13.07,an8,,0,0,0,,{\i1}Bu devlerin arasında, yerli ve milli \NGT-R'ımızı süren Aiba Şun, şu an 5. sırada.
+Dialogue: 20,0:18:13.61,0:18:17.43,an8,,0,0,0,,{\i1}Odawara'nın kendi\N"Kamikaze Serserisi" ortalığı kızıştırıyor.
+Dialogue: 20,0:18:18.50,0:18:23.42,an8,,0,0,0,,{\i1}302 katılımcıdan sadece 15'i yarışa seçilip...
+Dialogue: 20,0:18:23.42,0:18:25.75,an8,,0,0,0,,{\i1}..."Ulu Onbeşli" ünvanına sahibi olacak.
+Dialogue: 20,0:18:25.99,0:18:27.71,Default,,0,0,0,,"Ulu Onbeşli" mi?
+Dialogue: 20,0:18:27.97,0:18:31.04,Default,,0,0,0,,Tek endişemiz sıralamaya girmek olmalı.
+Dialogue: 20,0:18:31.25,0:18:35.38,Default,,0,0,0,,Taktığım yeni lastik 3 yarış dayanır herhalde.
+Dialogue: 20,0:18:35.60,0:18:40.32,Default,,0,0,0,,Bay Ogata, bu yarışta lastikler\N çok aşınırsa özür dilerim.
+Dialogue: 20,0:18:40.32,0:18:42.35,Default,,0,0,0,,Önden yolunu yapayım dedim.
+Dialogue: 20,0:18:43.89,0:18:48.27,an8,,0,0,0,,{\i1}İlk aracımız yerini aldı.\N 10 saniye sonra kalkacak!
+Dialogue: 20,0:18:48.27,0:18:51.96,an8,,0,0,0,,{\i1}Sayımı bu yıl Meleklere yeni katılan \NYedi Numara yapacak.
+Dialogue: 20,0:18:51.96,0:18:54.86,an8,,0,0,0,,{\i1}Kendisini yakından takip ediyorum.
+Dialogue: 20,0:18:55.96,0:18:59.61,an8,,0,0,0,,{\i1}Şu kıvrımlara bir bakın!\N Nefes kesici bir manzara bu!
+Dialogue: 20,0:18:59.88,0:19:01.55,Default,,0,0,0,,Kapa çeneni, Tanaka!
+Dialogue: 20,0:19:01.55,0:19:03.95,Default,,0,0,0,,Yedi Numarama nasıl sarkarsın!?
+Dialogue: 20,0:19:04.58,0:19:05.99,an8,,0,0,0,,{\i1}Ve başladı!
+Dialogue: 20,0:19:07.14,0:19:11.33,Default,,0,0,0,,Görmek bile kalbimi sıkıştırmaya yetiyor.\NAh benim Yedi Numaram...
+Dialogue: 20,0:19:11.61,0:19:12.88,Default,,0,0,0,,Aiba abi!
+Dialogue: 20,0:19:13.77,0:19:17.11,Default,,0,0,0,,Şun da buradaymış!\NBayağıdır görüşmüyorduk.
+Dialogue: 20,0:19:17.11,0:19:18.85,Default,,0,0,0,,Ogata, sen misin lan?
+Dialogue: 20,0:19:18.85,0:19:22.83,Default,,0,0,0,,Burada ne işin var?\N Senin yarışın bitmedi mi?
+Dialogue: 20,0:19:22.83,0:19:24.43,Default,,0,0,0,,Ya şey işte...
+Dialogue: 20,0:19:25.05,0:19:28.89,Default,,0,0,0,,Kanata'ya destek olmaya geldim.\N Endişelendim biraz.
+Dialogue: 20,0:19:28.89,0:19:31.89,Default,,0,0,0,,Sen Kanata'yı nereden tanıyorsun ki?
+Dialogue: 20,0:19:31.89,0:19:34.86,Default,,0,0,0,,Aiba abi bana Gyudon ısmarlamıştı.
+Dialogue: 20,0:19:35.14,0:19:37.37,Default,,0,0,0,,Şubenin önünde karşılaştık.
+Dialogue: 20,0:19:37.37,0:19:39.67,Default,,0,0,0,,Tesadüfe bak be.
+Dialogue: 20,0:19:39.67,0:19:41.37,Default,,0,0,0,,Dünya harbiden küçük.
+Dialogue: 20,0:19:41.37,0:19:45.58,Default,,0,0,0,,Neyse, sonra laflarız.\N Kalkıştan önce sadece 10 dakikamız var.
+Dialogue: 20,0:19:45.58,0:19:46.99,Default,,0,0,0,,Arabaya gidelim Kanata.
+Dialogue: 20,0:19:46.99,0:19:49.33,Default,,0,0,0,,Yardım lazım mı? Hangi araba?
+Dialogue: 20,0:19:49.56,0:19:51.77,Default,,0,0,0,,Zamanında benim yarıştığım.
+Dialogue: 20,0:19:51.77,0:19:52.81,Default,,0,0,0,,Şuradaki.
+Dialogue: 20,0:20:01.05,0:20:02.41,Default,,0,0,0,,86 numara.
+Dialogue: 20,0:20:07.24,0:20:08.21,Default,,0,0,0,,Güzel.
+Dialogue: 20,0:20:09.17,0:20:13.53,Default,,0,0,0,,Bak Kanata, şimdi söyleyeceklerimi sakın unutma.
+Dialogue: 20,0:20:13.85,0:20:18.16,Default,,0,0,0,,Sıralama turlarında en önemli şey\Nne olursa olsun turu bitirmektir.
+Dialogue: 20,0:20:18.16,0:20:19.98,Default,,0,0,0,,Arabayı vurayım deme sakın.
+Dialogue: 20,0:20:20.65,0:20:23.53,Default,,0,0,0,,Odawara Pikes Peak turu yaklaşık 40 km.
+Dialogue: 20,0:20:23.53,0:20:26.00,an8,,0,0,0,,En uzun MFG parkuru bu.
+Dialogue: 20,0:20:26.40,0:20:30.38,an8,,0,0,0,,Uzun süredir bu parkurda sürsem de\Nhala tüm yolu ezbere bilmiyorum.
+Dialogue: 20,0:20:31.16,0:20:33.41,Default,,0,0,0,,Resmi sitedeki rotayı inceledin mi?
+Dialogue: 20,0:20:33.41,0:20:36.30,Default,,0,0,0,,Abi, rotayı ezberledim ben.
+Dialogue: 20,0:20:36.30,0:20:38.65,Default,,0,0,0,,Hadi oradan.\NKaç yüz kere baktın lan?
+Dialogue: 20,0:20:38.65,0:20:41.92,Default,,0,0,0,,Şey... Üç kez falan...
+Dialogue: 20,0:20:41.92,0:20:44.80,Default,,0,0,0,,Şakanın sırası değil Kanata.
+Dialogue: 20,0:20:45.63,0:20:48.42,Default,,0,0,0,,Bak, araban çok güçlü sayılmaz.
+Dialogue: 20,0:20:48.42,0:20:51.18,Default,,0,0,0,,Yokuş yukarı giderken %70'ini kullansan yeter.
+Dialogue: 20,0:20:51.18,0:20:53.02,an8,,0,0,0,,Yokuş aşağı sıkıntı.
+Dialogue: 20,0:20:53.02,0:20:57.98,an8,,0,0,0,,Özellikle 3. kısımda %60-50 civarına çekersin.
+Dialogue: 20,0:20:58.24,0:21:01.96,Default,,0,0,0,,Tur bitince ne demek istediğimi anlarsın.
+Dialogue: 20,0:21:03.18,0:21:04.26,Default,,0,0,0,,Hadi git bakalım.
+Dialogue: 20,0:21:04.98,0:21:08.37,Default,,0,0,0,,86 numaralı araç,\N lütfen inceleme kısmına gelin.
+Dialogue: 20,0:21:09.45,0:21:12.33,an8,,0,0,0,,{\i1}Sırada ilk yarışına çıkan bir çaylak var.
+Dialogue: 20,0:21:12.68,0:21:15.42,an8,,0,0,0,,{\i1}Araç 86'yı süren,\N İngiltere'den gelen bir yarışmacı.
+Dialogue: 20,0:21:15.42,0:21:17.96,an8,,0,0,0,,{\i1}Kanata Katagiri, 19 yaşında.
+Dialogue: 20,0:21:18.68,0:21:19.96,Default,,0,0,0,,{\i1}Kanata mı?
+Dialogue: 20,0:21:24.80,0:21:26.97,Default,,0,0,0,,{\i1}Yok daha neler!\NGerçekten o!
+Dialogue: 20,0:21:30.89,0:21:33.98,Default,,0,0,0,,{\i1}Burada ne arıyorsun Kanata?
+Dialogue: 20,0:21:35.84,0:21:39.05,an8,,0,0,0,,{\i1}6, 5, 4.
+Dialogue: 20,0:21:35.84,0:21:39.31,Default,,0,0,0,,{\i1}Niye öyle şaşırdı ki durduk yerde?
+Dialogue: 20,0:21:39.05,0:21:41.74,an8,,0,0,0,,{\i1}3, 2, 1.
+Dialogue: 20,0:21:46.42,0:21:47.54,Default,,0,0,0,,{\i1}Kanata...
+Dialogue: 20,0:23:31.55,0:23:36.16,Default,,0,0,0,,{\i1}Gelecek sefer, 2. Dönüş:\N Yeni Nesil Çarpıcı MFG.
+Comment: 0,0:21:54.92,0:23:24.93,vuatsigns,,0,0,0,,{ed}
+Dialogue: 0,0:22:16.33,0:22:21.60,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Büyülü bir deneyim, bir rüyaydı sanki
+Dialogue: 1,0:22:16.33,0:22:21.60,ed,,0,0,0,,{\fad(325,252)\blur0.5}Büyülü bir deneyim, bir rüyaydı sanki
+Dialogue: 0,0:22:21.60,0:22:26.45,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Batan güneşin saçtığı renkler gibiydi
+Dialogue: 1,0:22:21.60,0:22:26.45,ed,,0,0,0,,{\fad(325,252)\blur0.5}Batan güneşin saçtığı renkler gibiydi
+Dialogue: 0,0:22:26.45,0:22:32.44,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Anlamanı isterdim, fark etmişsin gibi sanki
+Dialogue: 1,0:22:26.45,0:22:32.44,ed,,0,0,0,,{\fad(325,252)\blur0.5}Anlamanı isterdim, fark etmişsin gibi sanki
+Dialogue: 0,0:22:32.44,0:22:35.08,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Sana baktığımı
+Dialogue: 1,0:22:32.44,0:22:35.08,ed,,0,0,0,,{\fad(325,252)\blur0.5}Sana baktığımı
+Dialogue: 0,0:22:35.08,0:22:37.80,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Seni düşlediğimi
+Dialogue: 1,0:22:35.08,0:22:37.80,ed,,0,0,0,,{\fad(325,252)\blur0.5}Seni düşlediğimi
+Dialogue: 0,0:22:38.68,0:22:40.72,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Gel yamacıma
+Dialogue: 1,0:22:38.68,0:22:40.72,ed,,0,0,0,,{\fad(325,252)\blur0.5}Gel yamacıma
+Dialogue: 0,0:22:41.26,0:22:43.22,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Ya da hepten git
+Dialogue: 1,0:22:41.26,0:22:43.22,ed,,0,0,0,,{\fad(325,252)\blur0.5}Ya da hepten git
+Dialogue: 0,0:22:43.22,0:22:47.60,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Günler bize kıyak geçiyo' sanki
+Dialogue: 1,0:22:43.22,0:22:47.60,ed,,0,0,0,,{\fad(325,252)\blur0.5}Günler bize kıyak geçiyo' sanki
+Dialogue: 0,0:22:48.63,0:22:53.76,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Kalbimde yumuşacık bir his var gibiydi
+Dialogue: 1,0:22:48.63,0:22:53.76,ed,,0,0,0,,{\fad(325,252)\blur0.5}Kalbimde yumuşacık bir his var gibiydi
+Dialogue: 0,0:22:53.76,0:22:57.36,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Aşka kapılmış gibi sanki
+Dialogue: 1,0:22:53.76,0:22:57.36,ed,,0,0,0,,{\fad(325,252)\blur0.5}Aşka kapılmış gibi sanki
+Dialogue: 0,0:22:57.36,0:23:02.82,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Yılmadan dinledim aşkın sesini bi' öğrenince
+Dialogue: 1,0:22:57.36,0:23:02.82,ed,,0,0,0,,{\fad(325,252)\blur0.5}Yılmadan dinledim aşkın sesini bi' öğrenince
+Dialogue: 0,0:23:02.82,0:23:08.47,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Gölgelerde saklanmayı deneyen bu ışıltılı kalple
+Dialogue: 1,0:23:02.82,0:23:08.47,ed,,0,0,0,,{\fad(325,252)\blur0.5}Gölgelerde saklanmayı deneyen bu ışıltılı kalple
+Dialogue: 0,0:23:08.47,0:23:13.58,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Aramızdaki mesafeyi kelimeler ölçemez
+Dialogue: 1,0:23:08.47,0:23:13.58,ed,,0,0,0,,{\fad(325,252)\blur0.5}Aramızdaki mesafeyi kelimeler ölçemez
+Dialogue: 0,0:23:13.58,0:23:16.19,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Bir gün kapatacağım ama
+Dialogue: 1,0:23:13.58,0:23:16.19,ed,,0,0,0,,{\fad(325,252)\blur0.5}Bir gün kapatacağım ama
+Dialogue: 0,0:23:16.19,0:23:19.38,ed,,0,0,0,,{\fad(325,252)\blur3\alpha&H10&\c&H5D545F&}Gecenin ötesinde
+Dialogue: 1,0:23:16.19,0:23:19.38,ed,,0,0,0,,{\fad(325,252)\blur0.5}Gecenin ötesinde
+Comment: 0,0:00:00.07,0:00:00.98,vuatsigns,,0,0,0,,{ts}
+Dialogue: 0,0:01:22.97,0:01:27.98,vuatsigns,,0,0,0,,{\pos(960,540)\p1}m 20.8 -12.8 l 1521.6 -12.8 1521.6 440 20.8 440
+Dialogue: 1,0:01:22.97,0:01:27.98,vuatsigns,,0,0,0,,{\fnEisenhower\fs450\i1\c&H0104E3&\blur0.7}MF Ghost
+Dialogue: 3,0:01:28.44,0:01:33.07,vuatsigns,,0,0,0,,{\an7\pos(1241.89,888.85)\fscx387\fscy5\c&H0019FF&\blur1\fad(357,0)\t(0,357,\blur4)\t(357,607,\alpha&HFF&)\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:28.44,0:01:33.07,vuatsigns,,0,0,0,,{\an7\pos(1211.35,909.03)\fscx337\fscy5\c&H0019FF&\blur42\fad(357,0)\t(0,357,\blur4)\t(357,607,\alpha&HFF&)\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:28.44,0:01:33.07,vuatsigns,,0,0,0,,{\an7\pos(1249.31,899.68)\fscx373\fscy5\c&H0019FF&\blur42\fad(357,0)\t(0,357,\blur4)\t(357,607,\alpha&HFF&)\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 3,0:01:28.44,0:01:33.07,vuatsigns,,0,0,0,,{\an7\pos(1231.39,919.48)\fscx374\fscy5\c&H0019FF&\blur42\fad(357,0)\t(0,357,\blur4)\t(357,607,\alpha&HFF&)\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:28.44,0:01:33.07,vuatsigns,,0,0,0,,{\pos(1249.98,893.11)\fax-0.13\fnOswald SemiBold\fs100\fsp1\bord0.5\c&H000000&\1a&HFF&\blur0.6\fad(357,800)\t(312,357,\1a&H00&)\t(4091,4591,\blur22\alpha&HFF&)}İngiltere'den Gelen Yarışçı
+Dialogue: 2,0:01:28.46,0:01:33.09,vuatsigns,,0,0,0,,{\pos(1249.98,893.11)\fax-0.13\fnOswald SemiBold\fs100\fsp1\bord1\xshad2\yshad3\c&H000000&\1a&HFF&\3a&H5E&\blur3\fad(357,800)\t(312,357,\1a&H00&)\t(4091,4591,\blur22\alpha&HFF&)}İngiltere'den Gelen Yarışçı
+Dialogue: 4,0:01:28.46,0:01:33.09,vuatsigns,,0,0,0,,{\pos(1249.98,893.11)\fax-0.13\fnOswald SemiBold\fs100\fsp1\4a&HFF&\blur0.6\fad(357,0)\t(4091,4591,\blur22\alpha&HFF&)}İngiltere'den Gelen Yarışçı
+Dialogue: 1,0:05:26.13,0:05:29.09,vuatsigns,,0,0,0,,{\pos(960,539)\c&H41301C&\blur1\p1}m 32.68 249.63 l 409.66 171.24 411.08 175.46 417.89 224.06 39.05 301.16
+Dialogue: 1,0:05:26.13,0:05:29.09,vuatsigns,,0,0,0,,{\fnHigh Fighter\fsp3\b1\c&H53AABD&\blur1\fax-0.118964\fscx43.68\fscy71.31\frz11.2947\frx0.1200\fry-2.4486\org(989.51,714.62)\pos(991.33,712.62)}Odakyu Katase-Enoşima İstasyonu
+Dialogue: 0,0:06:04.84,0:06:06.80,vuatsigns,,0,0,0,,{\pos(957.77,591.67)\frz1.284\fry-0.19\frx0.15\fax-0.02\fnVAGRounded BT\fs59\c&H3B302B&\1a&H17&\blur0.8}O{\c&H3E332E&}g{\c&H413631&}a{\c&H443934&}t{\c&H473C37&}a {\c&H4D423D&}O{\c&H504540&}t{\c&H534843&}o{\c&H564B46&}m{\c&H594E49&}o{\c&H5C514C&}t{\c&H5F544F&}i{\c&H625752&}v {\c&H685D58&}L{\c&H6B605B&}t{\c&H6E635E&}d{\c&H726761&}.
+Dialogue: 0,0:06:06.80,0:06:06.84,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(1006.07,195.68)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:06.84,0:06:06.88,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(992.49,187.89)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:06.88,0:06:06.93,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(977.89,179.52)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:06.93,0:06:06.97,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(962.53,170.73)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:06.97,0:06:07.01,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(946.67,161.65)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.01,0:06:07.05,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(930.39,152.34)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.05,0:06:07.09,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(913.8,142.83)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.09,0:06:07.13,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(896.97,133.19)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.13,0:06:07.18,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(879.96,123.44)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.18,0:06:07.22,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(862.8,113.61)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.22,0:06:07.26,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(845.54,103.73)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.26,0:06:07.30,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(828.18,93.8)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.30,0:06:07.34,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(810.82,83.85)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.34,0:06:07.38,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(793.41,73.88)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.38,0:06:07.43,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(776,63.9)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.43,0:06:07.47,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(758.57,53.92)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.47,0:06:07.51,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(741.2,43.97)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.51,0:06:07.55,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(723.85,34.03)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.55,0:06:07.59,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(706.56,24.14)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.59,0:06:07.63,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(689.31,14.26)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.63,0:06:07.68,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(672.13,4.42)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.68,0:06:07.72,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(655.06,-5.36)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.72,0:06:07.76,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(638.05,-15.11)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.76,0:06:07.80,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(621.14,-24.79)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.80,0:06:07.84,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(604.35,-34.39)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.84,0:06:07.88,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(587.67,-43.96)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.88,0:06:07.93,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(571.11,-53.44)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.93,0:06:07.97,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(554.66,-62.86)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:07.97,0:06:08.01,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(538.4,-72.09)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 0,0:06:08.01,0:06:08.05,vuatsigns,,0,0,0,,{\1a&H00&\blur0.8)\fs70\fnVAGRounded BT\fax0.5.5\c&H7D6A5C&\frz333.9\pos(522.15,-81.28)\fscx64\fscy64}Ogata Otomotiv Ltd.
+Dialogue: 1,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\bord2.5\c&H6E6D63&\3c&H6E6D63&\blur0.6}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H57DEDD&\4a&HFF&\blur0.8\clip(m 1481 215.118 l 1656 216.956 1656 218.698 1481 216.86)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56DDDD&\4a&HFF&\blur0.8\clip(m 1481 216.11 l 1656 217.948 1656 219.69 1481 217.852)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56DCDD&\4a&HFF&\blur0.8\clip(m 1481 217.102 l 1656 218.94 1656 220.682 1481 218.844)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56DBDE&\4a&HFF&\blur0.8\clip(m 1481 218.094 l 1656 219.932 1656 221.674 1481 219.836)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56DADE&\4a&HFF&\blur0.8\clip(m 1481 219.086 l 1656 220.924 1656 222.666 1481 220.828)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56D9DF&\4a&HFF&\blur0.8\clip(m 1481 220.078 l 1656 221.916 1656 223.658 1481 221.82)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56D9DF&\4a&HFF&\blur0.8\clip(m 1481 221.07 l 1656 222.908 1656 224.65 1481 222.812)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56D8DF&\4a&HFF&\blur0.8\clip(m 1481 222.062 l 1656 223.9 1656 225.642 1481 223.804)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H56D7E0&\4a&HFF&\blur0.8\clip(m 1481 223.054 l 1656 224.892 1656 226.634 1481 224.796)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D6E0&\4a&HFF&\blur0.8\clip(m 1481 224.046 l 1656 225.884 1656 227.626 1481 225.788)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D5E1&\4a&HFF&\blur0.8\clip(m 1481 225.038 l 1656 226.876 1656 228.618 1481 226.78)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D5E1&\4a&HFF&\blur0.8\clip(m 1481 226.03 l 1656 227.868 1656 229.61 1481 227.772)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D4E2&\4a&HFF&\blur0.8\clip(m 1481 227.022 l 1656 228.86 1656 230.602 1481 228.764)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D3E2&\4a&HFF&\blur0.8\clip(m 1481 228.014 l 1656 229.852 1656 231.594 1481 229.756)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D2E2&\4a&HFF&\blur0.8\clip(m 1481 229.006 l 1656 230.844 1656 232.586 1481 230.748)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D1E3&\4a&HFF&\blur0.8\clip(m 1481 229.998 l 1656 231.836 1656 233.578 1481 231.74)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H55D0E3&\4a&HFF&\blur0.8\clip(m 1481 230.99 l 1656 232.828 1656 234.57 1481 232.732)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54D0E4&\4a&HFF&\blur0.8\clip(m 1481 231.982 l 1656 233.82 1656 235.562 1481 233.724)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CFE4&\4a&HFF&\blur0.8\clip(m 1481 232.974 l 1656 234.812 1656 236.554 1481 234.716)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CEE5&\4a&HFF&\blur0.8\clip(m 1481 233.966 l 1656 235.804 1656 237.546 1481 235.708)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CDE5&\4a&HFF&\blur0.8\clip(m 1481 234.958 l 1656 236.796 1656 238.538 1481 236.7)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CCE5&\4a&HFF&\blur0.8\clip(m 1481 235.95 l 1656 237.788 1656 239.53 1481 237.692)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CCE6&\4a&HFF&\blur0.8\clip(m 1481 236.942 l 1656 238.78 1656 240.522 1481 238.684)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CBE6&\4a&HFF&\blur0.8\clip(m 1481 237.934 l 1656 239.772 1656 241.514 1481 239.676)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H54CAE7&\4a&HFF&\blur0.8\clip(m 1481 238.926 l 1656 240.764 1656 242.506 1481 240.668)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C9E7&\4a&HFF&\blur0.8\clip(m 1481 239.918 l 1656 241.756 1656 243.498 1481 241.66)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C8E8&\4a&HFF&\blur0.8\clip(m 1481 240.91 l 1656 242.748 1656 244.49 1481 242.652)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C7E8&\4a&HFF&\blur0.8\clip(m 1481 241.902 l 1656 243.74 1656 245.482 1481 243.644)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C7E8&\4a&HFF&\blur0.8\clip(m 1481 242.894 l 1656 244.732 1656 246.474 1481 244.636)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C6E9&\4a&HFF&\blur0.8\clip(m 1481 243.886 l 1656 245.724 1656 247.466 1481 245.628)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C5E9&\4a&HFF&\blur0.8\clip(m 1481 244.878 l 1656 246.716 1656 248.458 1481 246.62)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C4EA&\4a&HFF&\blur0.8\clip(m 1481 245.87 l 1656 247.708 1656 249.45 1481 247.612)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C3EA&\4a&HFF&\blur0.8\clip(m 1481 246.862 l 1656 248.7 1656 250.442 1481 248.604)}Seçim Yarışı
+Dialogue: 2,0:06:12.47,0:06:14.93,vuatsigns,,0,0,0,,{\an7\pos(1481.15,209.71)\frz0.59\fax0.05\fnFOT-NewRodin Pro EB\fs38\c&H53C3EB&\4a&HFF&\blur0.8\clip(m 1481 247.854 l 1656 249.692 1656 251.434 1481 249.596)}Seçim Yarışı
+Dialogue: 1,0:06:29.82,0:06:38.66,vuatsigns,,0,0,0,,{\move(-54.37,218.29,186.57,218.29,28,8829)\fnFOT-NewRodin Pro EB\fsp1\xshad1\yshad1\c&H6A4C3A&\4c&H0C0C0D&\4a&H39&\blur1\t(28,8829,\clip)\t(28,8829,\fscx100)\t(28,8829,\fscy100)\t(28,8829,\frz0)\t(28,8829,\xshad1)\t(28,8829,\yshad1)\clip}Ogata Otomotiv
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H353537&\blur4\p1}m -14.81 441.17 l -37.94 527.02 -45.69 525.21 -19.11 440.13
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -12.87 441.65 l -35.99 527.48 -41.84 526.11 -18.7 440.23
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -10.92 442.12 l -34.04 527.94 -39.89 526.57 -16.76 440.7
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -8.98 442.59 l -32.1 528.39 -37.94 527.02 -14.81 441.17
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -7.07 443.05 l -30.07 528.87 -35.92 527.5 -12.91 441.64
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -5.08 443.53 l -28.19 529.31 -34.04 527.94 -10.92 442.12
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -3.14 444 l -26.25 529.76 -32.09 528.39 -8.97 442.59
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m -1.2 444.48 l -24.3 530.22 -30.14 528.85 -7.03 443.06
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 0.75 444.95 l -22.35 530.67 -28.2 529.3 -5.09 443.53
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 2.69 445.42 l -20.4 531.13 -26.25 529.76 -3.14 444
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 4.63 445.89 l -18.46 531.58 -24.3 530.22 -1.2 444.48
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 6.57 446.36 l -16.51 532.04 -22.36 530.67 0.74 444.95
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 8.48 446.82 l -14.49 532.51 -20.33 531.15 2.65 445.41
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 10.47 447.31 l -12.61 532.95 -18.45 531.59 4.64 445.89
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 12.41 447.78 l -10.66 533.41 -16.5 532.04 6.58 446.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 14.36 448.25 l -8.71 533.87 -14.56 532.5 8.52 446.83
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 16.3 448.72 l -6.76 534.32 -12.61 532.95 10.47 447.31
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 18.24 449.19 l -4.82 534.78 -10.66 533.41 12.41 447.78
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 20.19 449.66 l -2.87 535.23 -8.71 533.87 14.35 448.25
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 22.13 450.14 l -0.92 535.69 -6.77 534.32 16.3 448.72
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 24.07 450.61 l 1.03 536.15 -4.82 534.78 18.24 449.19
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 25.98 451.07 l 3.05 536.62 -2.8 535.25 20.14 449.65
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 27.97 451.55 l 4.93 537.06 -0.92 535.69 22.13 450.14
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 29.91 452.02 l 6.88 537.52 1.03 536.15 24.08 450.61
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 31.85 452.5 l 8.82 537.97 2.98 536.6 26.02 451.08
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 33.8 452.97 l 10.77 538.43 4.93 537.06 27.96 451.55
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 35.74 453.44 l 12.72 538.88 6.87 537.51 29.91 452.02
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 37.68 453.91 l 14.67 539.34 8.82 537.97 31.85 452.49
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 39.63 454.38 l 16.61 539.79 10.77 538.43 33.79 452.97
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 41.53 454.84 l 18.63 540.27 12.79 538.9 35.7 453.43
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 43.52 455.33 l 20.52 540.71 14.67 539.34 37.69 453.91
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 45.46 455.8 l 22.46 541.16 16.62 539.8 39.63 454.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 47.41 456.27 l 24.41 541.62 18.57 540.25 41.57 454.85
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 49.51 456.78 l 26.1 542.02 20.26 540.65 43.68 455.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 51.3 457.21 l 28.31 542.53 22.46 541.16 45.46 455.8
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 53.24 457.68 l 30.26 542.99 24.41 541.62 47.41 456.27
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 55.18 458.16 l 32.2 543.44 26.36 542.08 49.35 456.74
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 57.13 458.63 l 34.15 543.9 28.31 542.53 51.29 457.21
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 59.03 459.09 l 36.17 544.37 30.33 543 53.2 457.67
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 61.02 459.57 l 38.05 544.81 32.21 543.45 55.19 458.16
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 62.96 460.04 l 40 545.27 34.16 543.9 57.13 458.63
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 64.91 460.52 l 41.95 545.73 36.1 544.36 59.07 459.1
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 66.85 460.99 l 43.9 546.18 38.05 544.81 61.02 459.57
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 68.79 461.46 l 45.84 546.64 40 545.27 62.96 460.04
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 70.74 461.93 l 47.79 547.09 41.95 545.72 64.9 460.51
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 72.68 462.4 l 49.74 547.55 43.89 546.18 66.85 460.99
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 74.58 462.86 l 51.76 548.02 45.91 546.65 68.75 461.45
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 76.57 463.35 l 53.64 548.46 47.8 547.09 70.74 461.93
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 78.52 463.82 l 55.59 548.92 49.74 547.55 72.69 462.4
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 80.46 464.29 l 57.54 549.37 51.69 548.01 74.63 462.87
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343436&\blur4\p1}m 82.4 464.76 l 59.48 549.83 53.64 548.46 76.57 463.35
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 84.35 465.23 l 61.43 550.29 55.59 548.92 78.51 463.82
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 86.29 465.7 l 63.38 550.74 57.53 549.37 80.46 464.29
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 88.23 466.18 l 65.33 551.2 59.48 549.83 82.4 464.76
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 90.18 466.65 l 67.27 551.65 61.43 550.28 84.34 465.23
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 92.08 467.11 l 69.29 552.13 63.45 550.76 86.25 465.69
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 94.07 467.59 l 71.18 552.57 65.33 551.2 88.24 466.18
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 96.01 468.06 l 73.12 553.02 67.28 551.65 90.18 466.65
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 97.96 468.54 l 75.07 553.48 69.23 552.11 92.13 467.12
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 99.9 469.01 l 77.02 553.93 71.17 552.57 94.07 467.59
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 101.84 469.48 l 78.97 554.39 73.12 553.02 96.01 468.06
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 103.79 469.95 l 80.91 554.85 75.07 553.48 97.95 468.53
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 105.73 470.42 l 82.86 555.3 77.02 553.93 99.9 469.01
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 107.67 470.89 l 84.81 555.76 78.96 554.39 101.84 469.48
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 109.58 471.35 l 86.83 556.23 80.98 554.86 103.74 469.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 111.57 471.84 l 88.71 556.67 82.87 555.3 105.74 470.42
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 113.51 472.31 l 90.66 557.13 84.81 555.76 107.68 470.89
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H343435&\blur4\p1}m 115.46 472.78 l 92.61 557.58 86.76 556.22 109.62 471.37
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 117.4 473.25 l 94.55 558.04 88.71 556.67 111.57 471.84
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 119.34 473.72 l 96.5 558.5 90.66 557.13 113.51 472.31
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 121.28 474.2 l 98.45 558.95 92.6 557.58 115.45 472.78
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 123.23 474.67 l 100.4 559.41 94.55 558.04 117.39 473.25
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 125.13 475.13 l 102.41 559.88 96.57 558.51 119.3 473.71
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 127.12 475.61 l 104.3 560.32 98.45 558.95 121.29 474.2
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 129.07 476.08 l 106.25 560.78 100.4 559.41 123.23 474.67
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 131.01 476.55 l 108.19 561.23 102.35 559.86 125.18 475.14
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 132.95 477.03 l 110.14 561.69 104.3 560.32 127.12 475.61
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 134.9 477.5 l 112.09 562.14 106.24 560.78 129.06 476.08
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 136.84 477.97 l 114.04 562.6 108.19 561.23 131.01 476.55
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 138.78 478.44 l 115.98 563.06 110.14 561.69 132.95 477.03
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 140.72 478.91 l 117.93 563.51 112.09 562.14 134.89 477.5
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 142.63 479.37 l 119.95 563.98 114.1 562.62 136.79 477.96
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 144.62 479.86 l 121.83 564.43 115.99 563.06 138.79 478.44
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 146.56 480.33 l 123.78 564.88 117.94 563.51 140.73 478.91
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 148.51 480.8 l 125.73 565.34 119.88 563.97 142.67 479.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 150.45 481.27 l 127.68 565.79 121.83 564.42 144.62 479.86
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 152.39 481.74 l 129.62 566.25 123.78 564.88 146.56 480.33
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 154.34 482.21 l 131.57 566.7 125.73 565.34 148.5 480.8
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 156.28 482.69 l 133.52 567.16 127.67 565.79 150.45 481.27
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 158.18 483.15 l 135.53 567.63 129.69 566.26 152.35 481.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 160.17 483.63 l 137.42 568.07 131.58 566.71 154.34 482.22
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 162.29 484.15 l 139.13 568.47 133.29 567.11 156.46 482.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 164.06 484.57 l 141.32 568.99 135.47 567.62 158.23 483.16
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 166.01 485.05 l 143.27 569.44 137.42 568.07 160.17 483.63
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 167.95 485.52 l 145.21 569.9 139.37 568.53 162.12 484.1
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 169.89 485.99 l 147.16 570.35 141.32 568.99 164.06 484.57
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 171.83 486.46 l 149.11 570.81 143.26 569.44 166 485.05
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 173.78 486.93 l 151.06 571.27 145.21 569.9 167.95 485.52
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 175.68 487.39 l 153.07 571.74 147.23 570.37 169.85 485.98
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 177.67 487.88 l 154.96 572.18 149.11 570.81 171.84 486.46
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 179.62 488.35 l 156.91 572.64 151.06 571.27 173.78 486.93
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333335&\blur4\p1}m 181.56 488.82 l 158.85 573.09 153.01 571.72 175.73 487.4
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 183.5 489.29 l 160.8 573.55 154.96 572.18 177.67 487.88
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 185.45 489.76 l 162.75 574 156.9 572.63 179.61 488.35
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 187.39 490.23 l 164.7 574.46 158.85 573.09 181.56 488.82
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 189.33 490.71 l 166.64 574.91 160.8 573.55 183.5 489.29
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 191.23 491.17 l 168.66 575.39 162.81 574.02 185.4 489.75
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 193.23 491.65 l 170.55 575.83 164.7 574.46 187.39 490.24
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 195.17 492.12 l 172.49 576.28 166.65 574.92 189.34 490.71
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 197.11 492.59 l 174.44 576.74 168.6 575.37 191.28 491.18
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 199.06 493.07 l 176.39 577.2 170.54 575.83 193.22 491.65
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 201 493.54 l 178.34 577.65 172.49 576.28 195.17 492.12
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 202.94 494.01 l 180.28 578.11 174.44 576.74 197.11 492.59
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 204.89 494.48 l 182.23 578.56 176.39 577.2 199.05 493.06
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 206.83 494.95 l 184.18 579.02 178.33 577.65 201 493.54
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 208.73 495.41 l 186.19 579.49 180.35 578.12 202.9 494
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 210.72 495.9 l 188.08 579.93 182.24 578.56 204.89 494.48
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 212.67 496.37 l 190.03 580.39 184.18 579.02 206.84 494.95
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 214.61 496.84 l 191.98 580.84 186.13 579.48 208.78 495.42
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 216.55 497.31 l 193.92 581.3 188.08 579.93 210.72 495.9
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 218.5 497.78 l 195.87 581.76 190.03 580.39 212.66 496.37
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 220.44 498.25 l 197.82 582.21 191.97 580.84 214.61 496.84
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 222.38 498.73 l 199.77 582.67 193.92 581.3 216.55 497.31
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 224.28 499.19 l 201.78 583.14 195.93 581.77 218.45 497.77
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 226.28 499.67 l 203.67 583.58 197.83 582.21 220.45 498.26
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 228.22 500.14 l 205.62 584.04 199.77 582.67 222.39 498.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 230.16 500.61 l 207.56 584.49 201.72 583.13 224.33 499.2
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 232.11 501.09 l 209.51 584.95 203.67 583.58 226.28 499.67
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 234.05 501.56 l 211.46 585.41 205.61 584.04 228.22 500.14
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 235.99 502.03 l 213.41 585.86 207.56 584.49 230.16 500.61
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 237.94 502.5 l 215.35 586.32 209.51 584.95 232.1 501.08
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 239.88 502.97 l 217.3 586.77 211.46 585.4 234.05 501.56
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 241.78 503.43 l 219.31 587.24 213.47 585.88 235.95 502.02
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 243.78 503.92 l 221.21 587.69 215.36 586.32 237.94 502.5
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 245.72 504.39 l 223.15 588.14 217.31 586.77 239.89 502.97
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H333334&\blur4\p1}m 247.66 504.86 l 225.1 588.6 219.25 587.23 241.83 503.44
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 249.6 505.33 l 227.05 589.05 221.2 587.69 243.77 503.92
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 251.55 505.8 l 228.99 589.51 223.15 588.14 245.72 504.39
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 253.49 506.27 l 230.94 589.97 225.1 588.6 247.66 504.86
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 255.43 506.74 l 232.89 590.42 227.04 589.05 249.6 505.33
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 257.33 507.21 l 234.9 590.89 229.06 589.52 251.5 505.79
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 259.33 507.69 l 236.79 591.34 230.95 589.97 253.5 506.27
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 261.27 508.16 l 238.74 591.79 232.9 590.42 255.44 506.75
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 263.22 508.63 l 240.69 592.25 234.84 590.88 257.38 507.22
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 265.16 509.1 l 242.63 592.7 236.79 591.33 259.33 507.69
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 267.1 509.58 l 244.58 593.16 238.74 591.79 261.27 508.16
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 269.05 510.05 l 246.53 593.61 240.68 592.25 263.21 508.63
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 270.99 510.52 l 248.48 594.07 242.63 592.7 265.16 509.1
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 272.93 510.99 l 250.42 594.53 244.58 593.16 267.1 509.58
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 275.02 511.5 l 252.22 594.95 246.37 593.58 269.18 510.08
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 276.83 511.94 l 254.33 595.44 248.49 594.07 271 510.52
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 278.77 512.41 l 256.28 595.9 250.43 594.53 272.94 510.99
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323234&\blur4\p1}m 280.72 512.88 l 258.23 596.35 252.38 594.98 274.88 511.46
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 282.66 513.35 l 260.17 596.81 254.33 595.44 276.83 511.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 284.6 513.82 l 262.12 597.26 256.27 595.9 278.77 512.41
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 286.54 514.29 l 264.07 597.72 258.22 596.35 280.71 512.88
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 288.49 514.77 l 266.01 598.18 260.17 596.81 282.66 513.35
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 290.43 515.24 l 267.96 598.63 262.12 597.26 284.6 513.82
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 292.33 515.7 l 269.97 599.1 264.13 597.73 286.5 514.28
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 294.33 516.18 l 271.87 599.55 266.02 598.18 288.49 514.77
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 296.27 516.65 l 273.81 600 267.97 598.63 290.44 515.24
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 298.21 517.12 l 275.76 600.46 269.91 599.09 292.38 515.71
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 300.16 517.6 l 277.71 600.91 271.86 599.55 294.32 516.18
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 302.1 518.07 l 279.65 601.37 273.81 600 296.27 516.65
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 304.04 518.54 l 281.6 601.83 275.76 600.46 298.21 517.12
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 305.98 519.01 l 283.55 602.28 277.7 600.91 300.15 517.6
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 307.88 519.47 l 285.56 602.75 279.71 601.38 302.05 518.06
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 309.88 519.96 l 287.45 603.19 281.61 601.83 304.05 518.54
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 311.82 520.43 l 289.4 603.65 283.56 602.28 305.99 519.01
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 313.77 520.9 l 291.35 604.11 285.5 602.74 307.93 519.48
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 315.71 521.37 l 293.3 604.56 287.45 603.19 309.88 519.95
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 317.65 521.84 l 295.24 605.02 289.4 603.65 311.82 520.43
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 319.6 522.31 l 297.19 605.47 291.34 604.11 313.76 520.9
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 321.54 522.78 l 299.14 605.93 293.29 604.56 315.71 521.37
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 323.48 523.26 l 301.08 606.39 295.24 605.02 317.65 521.84
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 325.38 523.72 l 303.09 606.86 297.25 605.49 319.55 522.3
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 327.38 524.2 l 304.99 607.3 299.14 605.93 321.54 522.79
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 329.32 524.67 l 306.94 607.76 301.09 606.39 323.49 523.26
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 331.26 525.14 l 308.88 608.21 303.04 606.84 325.43 523.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 333.21 525.62 l 310.83 608.67 304.98 607.3 327.37 524.2
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 335.15 526.09 l 312.78 609.12 306.93 607.75 329.32 524.67
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 337.09 526.56 l 314.72 609.58 308.88 608.21 331.26 525.14
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 339.04 527.03 l 316.67 610.03 310.83 608.67 333.2 525.61
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 340.93 527.49 l 318.68 610.5 312.84 609.14 335.1 526.07
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 342.93 527.98 l 320.58 610.95 314.73 609.58 337.1 526.56
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 344.87 528.45 l 322.52 611.4 316.68 610.04 339.04 527.03
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 346.82 528.92 l 324.47 611.86 318.63 610.49 340.99 527.5
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 348.76 529.39 l 326.42 612.32 320.57 610.95 342.93 527.97
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 350.7 529.86 l 328.37 612.77 322.52 611.4 344.87 528.45
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 352.65 530.33 l 330.31 613.23 324.47 611.86 346.81 528.92
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 354.59 530.8 l 332.26 613.68 326.41 612.32 348.76 529.39
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 356.53 531.28 l 334.21 614.14 328.36 612.77 350.7 529.86
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 358.43 531.74 l 336.21 614.61 330.37 613.24 352.6 530.32
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 360.43 532.22 l 338.11 615.05 332.27 613.68 354.6 530.81
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 362.37 532.69 l 340.06 615.51 334.21 614.14 356.54 531.28
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 364.31 533.16 l 342.01 615.96 336.16 614.6 358.48 531.75
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 366.26 533.64 l 343.95 616.42 338.11 615.05 360.43 532.22
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 368.2 534.11 l 345.9 616.88 340.05 615.51 362.37 532.69
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 370.14 534.58 l 347.85 617.33 342 615.96 364.31 533.16
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 372.09 535.05 l 349.79 617.79 343.95 616.42 366.25 533.63
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 373.98 535.51 l 351.8 618.26 345.96 616.89 368.15 534.09
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 375.98 535.99 l 353.7 618.7 347.85 617.33 370.15 534.58
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 377.93 536.47 l 355.65 619.16 349.8 617.79 372.09 535.05
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H323233&\blur4\p1}m 379.87 536.94 l 357.59 619.61 351.75 618.25 374.04 535.52
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 381.81 537.41 l 359.54 620.07 353.7 618.7 375.98 535.99
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 383.75 537.88 l 361.49 620.53 355.64 619.16 377.92 536.47
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 385.7 538.35 l 363.44 620.98 357.59 619.61 379.87 536.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 387.84 538.87 l 365.18 621.39 359.34 620.02 382.01 537.46
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 389.59 539.3 l 367.33 621.89 361.49 620.53 383.75 537.88
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 391.48 539.75 l 369.34 622.36 363.49 620.99 385.65 538.34
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 393.48 540.24 l 371.24 622.81 365.39 621.44 387.65 538.83
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 395.43 540.71 l 373.18 623.26 367.34 621.89 389.59 539.3
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 397.37 541.18 l 375.13 623.72 369.29 622.35 391.54 539.77
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 399.31 541.66 l 377.08 624.17 371.23 622.81 393.48 540.24
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 401.25 542.13 l 379.03 624.63 373.18 623.26 395.42 540.71
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 403.2 542.6 l 380.97 625.09 375.13 623.72 397.36 541.18
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 405.14 543.07 l 382.92 625.54 377.07 624.17 399.31 541.65
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 407.03 543.53 l 384.93 626.01 379.08 624.64 401.2 542.11
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 409.04 544.01 l 386.82 626.46 380.98 625.09 403.2 542.6
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 410.98 544.49 l 388.77 626.91 382.93 625.54 405.15 543.07
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 412.92 544.96 l 390.72 627.37 384.87 626 407.09 543.54
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 414.87 545.43 l 392.67 627.82 386.82 626.46 409.03 544.01
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 416.81 545.9 l 394.61 628.28 388.77 626.91 410.98 544.49
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 418.75 546.37 l 396.56 628.74 390.72 627.37 412.92 544.96
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 420.69 546.84 l 398.51 629.19 392.66 627.82 414.86 545.43
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 422.64 547.31 l 400.46 629.65 394.61 628.28 416.81 545.9
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 424.53 547.77 l 402.46 630.12 396.61 628.75 418.7 546.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 426.53 548.26 l 404.36 630.56 398.51 629.19 420.7 546.84
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 428.48 548.73 l 406.31 631.02 400.46 629.65 422.64 547.32
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 430.42 549.2 l 408.25 631.47 402.41 630.1 424.59 547.79
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 432.36 549.67 l 410.2 631.93 404.36 630.56 426.53 548.26
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 434.31 550.15 l 412.15 632.38 406.3 631.02 428.47 548.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 436.25 550.62 l 414.1 632.84 408.25 631.47 430.42 549.2
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 438.19 551.09 l 416.04 633.3 410.2 631.93 432.36 549.67
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 440.08 551.55 l 418.05 633.76 412.2 632.4 434.25 550.13
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 442.09 552.03 l 419.95 634.21 414.1 632.84 436.25 550.62
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 444.03 552.51 l 421.89 634.67 416.05 633.3 438.2 551.09
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 445.97 552.98 l 423.84 635.12 418 633.75 440.14 551.56
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 447.92 553.45 l 425.79 635.58 419.94 634.21 442.08 552.03
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 449.86 553.92 l 427.74 636.03 421.89 634.66 444.03 552.5
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 451.8 554.39 l 429.68 636.49 423.84 635.12 445.97 552.98
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 453.75 554.86 l 431.63 636.94 425.79 635.58 447.91 553.45
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 455.69 555.33 l 433.58 637.4 427.73 636.03 449.86 553.92
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 457.58 555.79 l 435.58 637.87 429.74 636.5 451.75 554.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 459.58 556.28 l 437.48 638.31 431.64 636.95 453.75 554.86
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 461.53 556.75 l 439.43 638.77 433.58 637.4 455.69 555.34
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 463.47 557.22 l 441.38 639.23 435.53 637.86 457.64 555.81
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 465.41 557.69 l 443.32 639.68 437.48 638.31 459.58 556.28
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 467.36 558.17 l 445.27 640.14 439.43 638.77 461.52 556.75
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 469.3 558.64 l 447.22 640.59 441.37 639.23 463.47 557.22
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 471.24 559.11 l 449.17 641.05 443.32 639.68 465.41 557.69
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 473.13 559.57 l 451.17 641.52 445.32 640.15 467.3 558.15
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 475.14 560.05 l 453.07 641.96 447.22 640.6 469.31 558.64
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 477.08 560.53 l 455.02 642.42 449.17 641.05 471.25 559.11
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313132&\blur4\p1}m 479.02 561 l 456.96 642.88 451.12 641.51 473.19 559.58
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 480.97 561.47 l 458.91 643.33 453.07 641.96 475.13 560.05
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 482.91 561.94 l 460.86 643.79 455.01 642.42 477.08 560.52
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 484.85 562.41 l 462.81 644.24 456.96 642.87 479.02 561
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 486.8 562.88 l 464.75 644.7 458.91 643.33 480.96 561.47
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 488.74 563.35 l 466.7 645.15 460.86 643.79 482.91 561.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 490.63 563.81 l 468.7 645.62 462.86 644.25 484.8 562.4
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 492.64 564.3 l 470.6 646.07 464.76 644.7 486.8 562.88
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 494.58 564.77 l 472.55 646.52 466.71 645.16 488.75 563.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 496.52 565.24 l 474.5 646.98 468.65 645.61 490.69 563.83
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 498.46 565.71 l 476.45 647.44 470.6 646.07 492.63 564.3
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 500.62 566.24 l 478.21 647.85 472.37 646.48 494.79 564.82
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 502.35 566.66 l 480.34 648.35 474.5 646.98 496.52 565.24
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 504.3 567.13 l 482.29 648.8 476.45 647.44 498.46 565.71
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 506.24 567.6 l 484.24 649.26 478.39 647.89 500.41 566.18
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 508.13 568.06 l 486.24 649.73 480.39 648.36 502.3 566.64
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 510.14 568.55 l 488.14 650.17 482.3 648.81 504.3 567.13
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H313131&\blur4\p1}m 512.08 569.02 l 490.09 650.63 484.24 649.26 506.25 567.6
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 514.02 569.49 l 492.04 651.09 486.19 649.72 508.19 568.07
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 515.96 569.96 l 493.98 651.54 488.14 650.17 510.13 568.54
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 517.91 570.43 l 495.93 652 490.09 650.63 512.07 569.02
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 519.85 570.9 l 497.88 652.45 492.03 651.08 514.02 569.49
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 521.79 571.37 l 499.83 652.91 493.98 651.54 515.96 569.96
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 523.68 571.83 l 501.83 653.38 495.98 652.01 517.85 570.42
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 525.69 572.32 l 503.73 653.82 497.88 652.45 519.86 570.9
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 527.63 572.79 l 505.68 654.28 499.83 652.91 521.8 571.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 529.58 573.26 l 507.62 654.73 501.78 653.37 523.74 571.85
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 531.52 573.73 l 509.57 655.19 503.73 653.82 525.69 572.32
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 533.46 574.21 l 511.52 655.65 505.67 654.28 527.63 572.79
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 535.4 574.68 l 513.47 656.1 507.62 654.73 529.57 573.26
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 537.35 575.15 l 515.41 656.56 509.57 655.19 531.51 573.73
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 539.29 575.62 l 517.36 657.01 511.52 655.64 533.46 574.2
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 541.18 576.08 l 519.36 657.48 513.51 656.11 535.35 574.66
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 543.19 576.56 l 521.26 657.93 515.42 656.56 537.35 575.15
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 545.13 577.04 l 523.21 658.38 517.37 657.01 539.3 575.62
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 547.07 577.51 l 525.16 658.84 519.31 657.47 541.24 576.09
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 549.02 577.98 l 527.11 659.29 521.26 657.93 543.18 576.56
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 550.96 578.45 l 529.05 659.75 523.21 658.38 545.13 577.04
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 552.9 578.92 l 531 660.21 525.16 658.84 547.07 577.51
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 554.84 579.39 l 532.95 660.66 527.1 659.29 549.01 577.98
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 556.73 579.85 l 534.95 661.13 529.1 659.76 550.9 578.44
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 558.74 580.34 l 536.85 661.58 531.01 660.21 552.91 578.92
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 560.68 580.81 l 538.8 662.03 532.95 660.66 554.85 579.39
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 562.63 581.28 l 540.75 662.49 534.9 661.12 556.79 579.87
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 564.57 581.75 l 542.69 662.94 536.85 661.58 558.74 580.34
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 566.51 582.22 l 544.64 663.4 538.8 662.03 560.68 580.81
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 568.46 582.7 l 546.59 663.86 540.74 662.49 562.62 581.28
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 570.4 583.17 l 548.54 664.31 542.69 662.94 564.57 581.75
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 572.34 583.64 l 550.48 664.77 544.64 663.4 566.51 582.22
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 574.23 584.1 l 552.48 665.23 546.64 663.87 568.4 582.68
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 576.24 584.58 l 554.39 665.68 548.54 664.31 570.4 583.17
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303031&\blur4\p1}m 578.18 585.06 l 556.33 666.14 550.49 664.77 572.35 583.64
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 580.12 585.53 l 558.28 666.59 552.44 665.22 574.29 584.11
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 582.07 586 l 560.23 667.05 554.38 665.68 576.23 584.58
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 584.01 586.47 l 562.18 667.5 556.33 666.14 578.18 585.05
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 585.95 586.94 l 564.12 667.96 558.28 666.59 580.12 585.53
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 587.9 587.41 l 566.07 668.42 560.23 667.05 582.06 586
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 589.78 587.87 l 568.07 668.88 562.22 667.51 583.95 586.46
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 591.79 588.36 l 569.98 669.33 564.13 667.96 585.96 586.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 593.73 588.83 l 571.92 669.79 566.08 668.42 587.9 587.41
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 595.68 589.3 l 573.87 670.24 568.02 668.87 589.84 587.89
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 597.62 589.77 l 575.82 670.7 569.97 669.33 591.79 588.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 599.56 590.24 l 577.76 671.15 571.92 669.78 593.73 588.83
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 601.51 590.72 l 579.71 671.61 573.87 670.24 595.67 589.3
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 603.45 591.19 l 581.66 672.06 575.81 670.7 597.62 589.77
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 605.39 591.66 l 583.61 672.52 577.76 671.15 599.56 590.24
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 607.28 592.12 l 585.6 672.99 579.76 671.62 601.45 590.7
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 609.29 592.6 l 587.51 673.43 581.66 672.07 603.46 591.19
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 611.23 593.08 l 589.46 673.89 583.61 672.52 605.4 591.66
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 613.4 593.6 l 591.24 674.31 585.39 672.94 607.57 592.19
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 615.12 594.02 l 593.35 674.8 587.51 673.43 609.29 592.6
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 617.06 594.49 l 595.3 675.26 589.46 673.89 611.23 593.07
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 619.01 594.96 l 597.25 675.71 591.4 674.35 613.17 593.55
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 620.95 595.43 l 599.2 676.17 593.35 674.8 615.12 594.02
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 622.84 595.89 l 601.19 676.64 595.35 675.27 617 594.48
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 624.84 596.38 l 603.1 677.08 597.26 675.72 619.01 594.96
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 626.79 596.85 l 605.05 677.54 599.2 676.17 620.96 595.43
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 628.73 597.32 l 606.99 678 601.15 676.63 622.9 595.91
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 630.67 597.79 l 608.94 678.45 603.1 677.08 624.84 596.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 632.62 598.26 l 610.89 678.91 605.04 677.54 626.78 596.85
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 634.56 598.74 l 612.84 679.36 606.99 677.99 628.73 597.32
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 636.5 599.21 l 614.78 679.82 608.94 678.45 630.67 597.79
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 638.45 599.68 l 616.73 680.27 610.89 678.91 632.61 598.26
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 640.33 600.14 l 618.73 680.74 612.88 679.37 634.5 598.72
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 642.34 600.62 l 620.64 681.19 614.79 679.82 636.51 599.21
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H303030&\blur4\p1}m 644.28 601.1 l 622.58 681.64 616.74 680.28 638.45 599.68
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 646.23 601.57 l 624.53 682.1 618.68 680.73 640.4 600.15
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 648.17 602.04 l 626.48 682.56 620.63 681.19 642.34 600.62
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 650.11 602.51 l 628.42 683.01 622.58 681.64 644.28 601.09
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 652.06 602.98 l 630.37 683.47 624.53 682.1 646.22 601.57
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 654 603.45 l 632.32 683.92 626.47 682.56 648.17 602.04
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 655.89 603.91 l 634.31 684.39 628.47 683.02 650.05 602.49
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 657.9 604.4 l 636.22 684.84 630.38 683.47 652.06 602.98
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 659.84 604.87 l 638.17 685.29 632.33 683.92 654.01 603.45
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 661.78 605.34 l 640.12 685.75 634.27 684.38 655.95 603.93
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 663.73 605.81 l 642.06 686.2 636.22 684.84 657.89 604.4
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 665.67 606.28 l 644.01 686.66 638.17 685.29 659.84 604.87
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 667.61 606.75 l 645.96 687.12 640.11 685.75 661.78 605.34
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 669.55 607.23 l 647.91 687.57 642.06 686.2 663.72 605.81
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 671.5 607.7 l 649.85 688.03 644.01 686.66 665.66 606.28
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 673.38 608.16 l 651.85 688.49 646 687.13 667.55 606.74
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 675.39 608.64 l 653.76 688.94 647.91 687.57 669.56 607.23
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F30&\blur4\p1}m 677.34 609.11 l 655.71 689.4 649.86 688.03 671.5 607.7
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 679.28 609.59 l 657.65 689.85 651.81 688.49 673.45 608.17
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 681.22 610.06 l 659.6 690.31 653.75 688.94 675.39 608.64
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 683.17 610.53 l 661.55 690.77 655.7 689.4 677.33 609.11
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 685.11 611 l 663.49 691.22 657.65 689.85 679.28 609.59
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 687.05 611.47 l 665.44 691.68 659.6 690.31 681.22 610.06
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 688.99 611.94 l 667.39 692.13 661.54 690.76 683.16 610.53
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 690.88 612.4 l 669.38 692.6 663.54 691.23 685.05 610.99
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 692.89 612.89 l 671.29 693.05 665.45 691.68 687.06 611.47
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 694.83 613.36 l 673.24 693.5 667.39 692.13 689 611.94
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 696.78 613.83 l 675.19 693.96 669.34 692.59 690.94 612.42
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 698.72 614.3 l 677.13 694.41 671.29 693.05 692.89 612.89
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 700.66 614.77 l 679.08 694.87 673.24 693.5 694.83 613.36
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 702.61 615.25 l 681.03 695.33 675.18 693.96 696.77 613.83
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 704.55 615.72 l 682.98 695.78 677.13 694.41 698.72 614.3
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 706.43 616.17 l 684.97 696.25 679.12 694.88 700.6 614.76
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 708.44 616.66 l 686.88 696.7 681.04 695.33 702.61 615.25
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 710.39 617.13 l 688.83 697.15 682.98 695.78 704.55 615.72
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 712.33 617.61 l 690.78 697.61 684.93 696.24 706.5 616.19
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 714.27 618.08 l 692.72 698.06 686.88 696.69 708.44 616.66
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 716.22 618.55 l 694.67 698.52 688.82 697.15 710.38 617.13
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 718.16 619.02 l 696.62 698.97 690.77 697.61 712.33 617.6
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 720.1 619.49 l 698.56 699.43 692.72 698.06 714.27 618.08
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 722.05 619.96 l 700.51 699.89 694.67 698.52 716.21 618.55
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 723.93 620.42 l 702.5 700.35 696.66 698.98 718.1 619
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 726.18 620.97 l 704.27 700.77 698.42 699.4 720.35 619.55
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 727.89 621.38 l 706.37 701.26 700.52 699.89 722.05 619.96
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 729.83 621.85 l 708.31 701.71 702.47 700.34 724 620.44
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 731.77 622.32 l 710.26 702.17 704.41 700.8 725.94 620.91
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 733.72 622.79 l 712.21 702.62 706.36 701.26 727.88 621.38
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 735.66 623.27 l 714.15 703.08 708.31 701.71 729.83 621.85
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 737.6 623.74 l 716.1 703.54 710.26 702.17 731.77 622.32
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 739.48 624.19 l 718.09 704 712.25 702.63 733.65 622.78
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 741.5 624.68 l 720.01 704.45 714.16 703.08 735.66 623.27
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 743.44 625.15 l 721.95 704.91 716.11 703.54 737.61 623.74
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 745.38 625.63 l 723.9 705.36 718.06 703.99 739.55 624.21
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 747.33 626.1 l 725.85 705.82 720 704.45 741.49 624.68
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 749.27 626.57 l 727.8 706.27 721.95 704.9 743.44 625.15
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 751.21 627.04 l 729.74 706.73 723.9 705.36 745.38 625.62
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 753.16 627.51 l 731.69 707.18 725.84 705.82 747.32 626.1
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 755.1 627.98 l 733.64 707.64 727.79 706.27 749.27 626.57
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 756.98 628.44 l 735.63 708.11 729.78 706.74 751.15 627.02
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 758.99 628.93 l 737.54 708.55 731.7 707.19 753.16 627.51
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 760.94 629.4 l 739.49 709.01 733.64 707.64 755.11 627.98
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 762.88 629.87 l 741.44 709.47 735.59 708.1 757.05 628.46
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 764.82 630.34 l 743.38 709.92 737.54 708.55 758.99 628.93
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 766.77 630.81 l 745.33 710.38 739.48 709.01 760.93 629.4
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 768.71 631.29 l 747.28 710.83 741.43 709.47 762.88 629.87
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 770.65 631.76 l 749.22 711.29 743.38 709.92 764.82 630.34
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 772.53 632.21 l 751.21 711.76 745.37 710.39 766.7 630.8
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 774.55 632.7 l 753.13 712.2 747.28 710.84 768.72 631.29
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 776.49 633.17 l 755.08 712.66 749.23 711.29 770.66 631.76
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2E2E2E&\blur4\p1}m 778.43 633.65 l 757.02 713.12 751.18 711.75 772.6 632.23
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(438.99,395.64)\c&H2F2F2F&\blur4\p1}m 998.33 687 l 866.96 738.85 753.13 712.2 774.55 632.7
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an1\pos(407,905)\frz-14.14\fax-0.04\fnFOT-NewRodin Pro DB\c&HB5B6B8&\blur1.2}1. Odahara Pikes Peak Resmi Seçim Yarışı
+Dialogue: 0,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\bord3\c&H000000&\3c&H2F3538&\3a&H2A&\4a&HFF&\blur0.8\1a&HFE}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H10D9E0&\4a&HFF&\blur1\clip(m 1423 440.212 l 1558 479.13 1558 480.905 1423 441.987)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H10D7DF&\4a&HFF&\blur1\clip(m 1423 441.237 l 1558 480.155 1558 481.93 1423 443.012)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H10D5DF&\4a&HFF&\blur1\clip(m 1423 442.262 l 1558 481.18 1558 482.955 1423 444.037)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H11D3DF&\4a&HFF&\blur1\clip(m 1423 443.287 l 1558 482.205 1558 483.98 1423 445.062)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H11D1DF&\4a&HFF&\blur1\clip(m 1423 444.312 l 1558 483.23 1558 485.005 1423 446.087)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H12CFDF&\4a&HFF&\blur1\clip(m 1423 445.337 l 1558 484.255 1558 486.03 1423 447.112)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H12CEDF&\4a&HFF&\blur1\clip(m 1423 446.362 l 1558 485.28 1558 487.055 1423 448.137)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H13CCDF&\4a&HFF&\blur1\clip(m 1423 447.387 l 1558 486.305 1558 488.08 1423 449.162)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H13CADF&\4a&HFF&\blur1\clip(m 1423 448.412 l 1558 487.33 1558 489.105 1423 450.187)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H14C8DF&\4a&HFF&\blur1\clip(m 1423 449.437 l 1558 488.355 1558 490.13 1423 451.212)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H14C6DF&\4a&HFF&\blur1\clip(m 1423 450.462 l 1558 489.38 1558 491.155 1423 452.237)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H14C5DF&\4a&HFF&\blur1\clip(m 1423 451.487 l 1558 490.405 1558 492.18 1423 453.262)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H15C3DF&\4a&HFF&\blur1\clip(m 1423 452.512 l 1558 491.43 1558 493.205 1423 454.287)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H15C1DF&\4a&HFF&\blur1\clip(m 1423 453.537 l 1558 492.455 1558 494.23 1423 455.312)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H16BFDE&\4a&HFF&\blur1\clip(m 1423 454.562 l 1558 493.48 1558 495.255 1423 456.337)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H16BDDE&\4a&HFF&\blur1\clip(m 1423 455.587 l 1558 494.505 1558 496.28 1423 457.362)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H17BBDE&\4a&HFF&\blur1\clip(m 1423 456.612 l 1558 495.53 1558 497.305 1423 458.387)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H17BADE&\4a&HFF&\blur1\clip(m 1423 457.637 l 1558 496.555 1558 498.33 1423 459.412)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H18B8DE&\4a&HFF&\blur1\clip(m 1423 458.662 l 1558 497.58 1558 499.355 1423 460.437)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H18B6DE&\4a&HFF&\blur1\clip(m 1423 459.687 l 1558 498.605 1558 500.38 1423 461.462)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H18B4DE&\4a&HFF&\blur1\clip(m 1423 460.712 l 1558 499.63 1558 501.405 1423 462.487)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H19B2DE&\4a&HFF&\blur1\clip(m 1423 461.737 l 1558 500.655 1558 502.43 1423 463.512)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H19B1DE&\4a&HFF&\blur1\clip(m 1423 462.762 l 1558 501.68 1558 503.455 1423 464.537)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H1AAFDE&\4a&HFF&\blur1\clip(m 1423 463.787 l 1558 502.705 1558 504.48 1423 465.562)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H1AADDE&\4a&HFF&\blur1\clip(m 1423 464.812 l 1558 503.73 1558 505.505 1423 466.587)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H1BABDE&\4a&HFF&\blur1\clip(m 1423 465.837 l 1558 504.755 1558 506.53 1423 467.612)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H1BA9DE&\4a&HFF&\blur1\clip(m 1423 466.862 l 1558 505.78 1558 507.556 1423 468.637)}Seçim Yarışı
+Dialogue: 1,0:07:47.94,0:07:49.90,vuatsigns,,0,0,0,,{\an7\pos(1429.67,438.63)\frz-14.25\fax-0.02\fay0.012\fnFOT-NewRodin Pro EB\fs30\c&H1CA8DE&\4a&HFF&\blur1\clip(m 1423 467.887 l 1558 506.806 1558 508.581 1423 469.662)}Seçim Yarışı
+Dialogue: 0,0:09:41.97,0:09:42.02,vuatsigns,,0,0,0,,{\pos(-263,533.64)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:41.97,0:09:42.02,vuatsigns,,0,0,0,,{\pos(-263,533.64)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.02,0:09:42.06,vuatsigns,,0,0,0,,{\pos(-121.22,533.75)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.02,0:09:42.06,vuatsigns,,0,0,0,,{\pos(-121.22,533.75)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.06,0:09:42.10,vuatsigns,,0,0,0,,{\pos(18.26,533.63)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.06,0:09:42.10,vuatsigns,,0,0,0,,{\pos(18.26,533.63)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.10,0:09:42.14,vuatsigns,,0,0,0,,{\pos(146.42,533.63)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.10,0:09:42.14,vuatsigns,,0,0,0,,{\pos(146.42,533.63)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.14,0:09:42.18,vuatsigns,,0,0,0,,{\pos(266.59,533.61)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.14,0:09:42.18,vuatsigns,,0,0,0,,{\pos(266.59,533.61)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.18,0:09:42.22,vuatsigns,,0,0,0,,{\pos(379.01,533.63)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.18,0:09:42.22,vuatsigns,,0,0,0,,{\pos(379.01,533.63)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.22,0:09:42.27,vuatsigns,,0,0,0,,{\pos(483.87,533.63)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.22,0:09:42.27,vuatsigns,,0,0,0,,{\pos(483.87,533.63)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.27,0:09:42.31,vuatsigns,,0,0,0,,{\pos(581.38,533.63)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.27,0:09:42.31,vuatsigns,,0,0,0,,{\pos(581.38,533.63)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.31,0:09:42.35,vuatsigns,,0,0,0,,{\pos(671.69,533.62)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.31,0:09:42.35,vuatsigns,,0,0,0,,{\pos(671.69,533.62)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.35,0:09:42.39,vuatsigns,,0,0,0,,{\pos(755.03,533.61)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.35,0:09:42.39,vuatsigns,,0,0,0,,{\pos(755.03,533.61)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.39,0:09:42.43,vuatsigns,,0,0,0,,{\pos(831.44,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.39,0:09:42.43,vuatsigns,,0,0,0,,{\pos(831.44,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.43,0:09:42.47,vuatsigns,,0,0,0,,{\pos(901.22,533.61)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.43,0:09:42.47,vuatsigns,,0,0,0,,{\pos(901.22,533.61)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.47,0:09:42.52,vuatsigns,,0,0,0,,{\pos(964.3,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.47,0:09:42.52,vuatsigns,,0,0,0,,{\pos(964.3,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.52,0:09:42.56,vuatsigns,,0,0,0,,{\pos(1021,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.52,0:09:42.56,vuatsigns,,0,0,0,,{\pos(1021,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.56,0:09:42.60,vuatsigns,,0,0,0,,{\pos(1071.31,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.56,0:09:42.60,vuatsigns,,0,0,0,,{\pos(1071.31,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.60,0:09:42.64,vuatsigns,,0,0,0,,{\pos(1115.31,533.61)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.60,0:09:42.64,vuatsigns,,0,0,0,,{\pos(1115.31,533.61)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.64,0:09:42.68,vuatsigns,,0,0,0,,{\pos(1153.27,533.61)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.64,0:09:42.68,vuatsigns,,0,0,0,,{\pos(1153.27,533.61)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.68,0:09:42.72,vuatsigns,,0,0,0,,{\pos(1185.07,533.62)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.68,0:09:42.72,vuatsigns,,0,0,0,,{\pos(1185.07,533.62)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.72,0:09:42.77,vuatsigns,,0,0,0,,{\pos(1210.99,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.72,0:09:42.77,vuatsigns,,0,0,0,,{\pos(1210.99,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.77,0:09:42.81,vuatsigns,,0,0,0,,{\pos(1230.99,533.59)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.77,0:09:42.81,vuatsigns,,0,0,0,,{\pos(1230.99,533.59)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.81,0:09:42.85,vuatsigns,,0,0,0,,{\pos(1245.1,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.81,0:09:42.85,vuatsigns,,0,0,0,,{\pos(1245.1,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 0,0:09:42.85,0:09:42.89,vuatsigns,,0,0,0,,{\pos(1253.55,533.6)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 1,0:09:42.85,0:09:42.89,vuatsigns,,0,0,0,,{\pos(1253.55,533.6)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:42.89,0:09:45.98,vuatsigns,,0,0,0,,{\pos(1256.4,533.6)\fnEisenhower\fs250\i1\1a&H40&\blur8\t(41,41,\c&HFFFFFF&)\t(83,83,\c&HFFFFFF&)\t(125,125,\c&HFFFFFF&)\t(166,166,\c&HFFFFFF&)\t(208,208,\c&HFFFFFF&)\t(250,250,\c&HFFFFFF&)\t(292,292,\c&HFFFFFF&)\t(333,333,\c&HFFFFFF&)\t(375,375,\c&HFFFFFF&)\t(417,417,\c&HFFFFFF&)\t(458,458,\c&HFFFFFF&)\t(500,500,\c&HFCFAFF&)\t(542,542,\c&HF0EFFF&)\t(568,569,\c&HAAAACC&)\t(583,583,\c&HC1BEF2&)\t(625,625,\c&HAFABED&)\t(667,667,\c&H9C97E8&)\t(709,709,\alpha&HFF&)}MF Ghost
+Dialogue: 2,0:09:42.89,0:09:45.98,vuatsigns,,0,0,0,,{\pos(1256.4,533.6)\fnEisenhower\fs250\i1\blur0.7\t(41,41,\c&HFFFFFF&)\t(83,83,\c&HFFFFFF&)\t(125,125,\c&HFFFFFF&)\t(166,166,\c&HFFFFFF&)\t(208,208,\c&HFFFFFF&)\t(250,250,\c&HFFFFFF&)\t(292,292,\c&HFFFFFF&)\t(333,333,\c&HFFFFFF&)\t(375,375,\c&HFFFFFF&)\t(417,417,\c&HFFFFFF&)\t(458,458,\c&HFFFFFF&)\t(500,500,\c&HFCFAFF&)\t(542,542,\c&HF0EFFF&)\t(568,569,\c&HAAAACC&)\t(583,583,\c&HC1BEF2&)\t(625,625,\c&HAFABED&)\t(667,667,\c&H9C97E8&)\t(709,709,\c&H8A85E0&)\t(750,750,\c&H7771DD&)\t(792,792,\c&H665FD7&)\t(834,834,\c&H5B52DA&)\t(875,875,\c&H5044DD&)\t(917,917,\c&H4537DF&)\t(959,959,\c&H3728E0&)\t(1001,1001,\c&H2B1CE0&)\t(1042,1042,\c&H1F0EE2&)\t(1084,1084,\c&H1000E5&)}MF Ghost
+Dialogue: 1,0:09:47.06,0:09:47.10,vuatsigns,,0,0,0,,{\pos(-263.82,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.06,0:09:47.10,vuatsigns,,0,0,0,,{\pos(-263.82,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.10,0:09:47.15,vuatsigns,,0,0,0,,{\pos(-118.91,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.10,0:09:47.15,vuatsigns,,0,0,0,,{\pos(-118.91,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.15,0:09:47.19,vuatsigns,,0,0,0,,{\pos(17.46,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.15,0:09:47.19,vuatsigns,,0,0,0,,{\pos(17.46,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.19,0:09:47.23,vuatsigns,,0,0,0,,{\pos(145.6,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.19,0:09:47.23,vuatsigns,,0,0,0,,{\pos(145.6,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.23,0:09:47.27,vuatsigns,,0,0,0,,{\pos(265.79,533.75)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.23,0:09:47.27,vuatsigns,,0,0,0,,{\pos(265.79,533.75)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.27,0:09:47.31,vuatsigns,,0,0,0,,{\pos(378.16,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.27,0:09:47.31,vuatsigns,,0,0,0,,{\pos(378.16,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.31,0:09:47.35,vuatsigns,,0,0,0,,{\pos(483.05,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.31,0:09:47.35,vuatsigns,,0,0,0,,{\pos(483.05,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.35,0:09:47.40,vuatsigns,,0,0,0,,{\pos(580.56,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.35,0:09:47.40,vuatsigns,,0,0,0,,{\pos(580.56,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.40,0:09:47.44,vuatsigns,,0,0,0,,{\pos(670.87,533.73)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.40,0:09:47.44,vuatsigns,,0,0,0,,{\pos(670.87,533.73)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.44,0:09:47.48,vuatsigns,,0,0,0,,{\pos(754.17,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.44,0:09:47.48,vuatsigns,,0,0,0,,{\pos(754.17,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.48,0:09:47.52,vuatsigns,,0,0,0,,{\pos(830.65,533.73)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.48,0:09:47.52,vuatsigns,,0,0,0,,{\pos(830.65,533.73)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.52,0:09:47.56,vuatsigns,,0,0,0,,{\pos(900.38,533.75)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.52,0:09:47.56,vuatsigns,,0,0,0,,{\pos(900.38,533.75)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.56,0:09:47.60,vuatsigns,,0,0,0,,{\pos(963.5,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.56,0:09:47.60,vuatsigns,,0,0,0,,{\pos(963.5,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.60,0:09:47.65,vuatsigns,,0,0,0,,{\pos(1020.17,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.60,0:09:47.65,vuatsigns,,0,0,0,,{\pos(1020.17,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.65,0:09:47.69,vuatsigns,,0,0,0,,{\pos(1070.47,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.65,0:09:47.69,vuatsigns,,0,0,0,,{\pos(1070.47,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.69,0:09:47.73,vuatsigns,,0,0,0,,{\pos(1114.51,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.69,0:09:47.73,vuatsigns,,0,0,0,,{\pos(1114.51,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.73,0:09:47.77,vuatsigns,,0,0,0,,{\pos(1152.43,533.75)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.73,0:09:47.77,vuatsigns,,0,0,0,,{\pos(1152.43,533.75)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.77,0:09:47.81,vuatsigns,,0,0,0,,{\pos(1184.25,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.77,0:09:47.81,vuatsigns,,0,0,0,,{\pos(1184.25,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.81,0:09:47.85,vuatsigns,,0,0,0,,{\pos(1210.15,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.81,0:09:47.85,vuatsigns,,0,0,0,,{\pos(1210.15,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.85,0:09:47.90,vuatsigns,,0,0,0,,{\pos(1230.14,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.85,0:09:47.90,vuatsigns,,0,0,0,,{\pos(1230.14,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.90,0:09:47.94,vuatsigns,,0,0,0,,{\pos(1244.3,533.74)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.90,0:09:47.94,vuatsigns,,0,0,0,,{\pos(1244.3,533.74)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.94,0:09:47.98,vuatsigns,,0,0,0,,{\pos(1252.78,533.73)\fnEisenhower\fs250\i1\alpha&H40&\blur8}MF Ghost
+Dialogue: 2,0:09:47.94,0:09:47.98,vuatsigns,,0,0,0,,{\pos(1252.78,533.73)\fnEisenhower\fs250\i1\blur0.7}MF Ghost
+Dialogue: 1,0:09:47.98,0:09:50.99,vuatsigns,,0,0,0,,{\pos(1256.4,533.6)\fnEisenhower\fs250\i1\1a&H40&\blur8\t(42,42,\c&HFFFEFF&)\t(83,83,\c&HFFFFFF&)\t(125,125,\c&HFFFFFF&)\t(167,167,\c&HFFFFFF&)\t(209,209,\c&HFFFFFF&)\t(250,250,\c&HFFFFFF&)\t(292,292,\c&HFFFFFF&)\t(334,334,\c&HFFFFFF&)\t(375,375,\c&HFFFFFF&)\t(417,417,\c&HFCFDFF&)\t(459,459,\c&HF7FBFF&)\t(500,500,\c&HE9E7FA&)\t(542,542,\c&HE5E5F9&)\t(584,584,\alpha&HFF&))}MF Ghost
+Dialogue: 2,0:09:47.98,0:09:50.99,vuatsigns,,0,0,0,,{\pos(1256.4,533.6)\fnEisenhower\fs250\i1\blur0.7\t(42,42,\c&HFFFEFF&)\t(83,83,\c&HFFFFFF&)\t(125,125,\c&HFFFFFF&)\t(167,167,\c&HFFFFFF&)\t(209,209,\c&HFFFFFF&)\t(250,250,\c&HFFFFFF&)\t(292,292,\c&HFFFFFF&)\t(334,334,\c&HFFFFFF&)\t(375,375,\c&HFFFFFF&)\t(417,417,\c&HFCFDFF&)\t(459,459,\c&HF7FBFF&)\t(500,500,\c&HE9E7FA&)\t(542,542,\c&HE5E5F9&)\t(584,584,\c&HE3E3F8&)\t(626,626,\c&HE8E6F8&)\t(667,667,\c&HEEEDF9&)\t(709,709,\c&HFAFAFA&)\t(751,751,\c&HFAFAFA&)\t(792,792,\c&HFAFAFA&)\t(834,834,\c&HFAFAFA&)\t(876,876,\c&HFAFAFA&)}MF Ghost
+Dialogue: 0,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(608.79,773.21)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs50\bord2\c&HF0D2FE&\3c&HFBF2FF&\blur0.6}Profil
+Dialogue: 1,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(608.79,773.21)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs50\c&HA29BEA&\alpha&H40&\blur4}Profil
+Dialogue: 2,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(608.79,773.21)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs50\c&HA266B2&\4a&HFF&\blur1}Profil
+Dialogue: 0,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(609.72,824.06)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs32\bord2\c&HF0D2FE&\3c&HFBF2FF&\blur0.6}İsim: ? / Doğum Günü: ? / Doğum Yeri: ?
+Dialogue: 1,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(609.72,824.06)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs32\c&HA29BEA&\alpha&H40&\blur4}İsim: ? / Doğum Günü: ? / Doğum Yeri: ?
+Dialogue: 2,0:11:27.33,0:11:31.00,vuatsigns,,0,0,0,,{\an8\pos(609.72,824.06)\frz3.36\fax-0.02\fnFOT-NewRodin Pro DB\fs32\c&HA266B2&\4a&HFF&\blur1}İsim: ? / Doğum Günü: ? / Doğum Yeri: ?
+Dialogue: 0,0:12:45.16,0:12:50.87,vuatsigns,,0,0,0,,{\an8\pos(1364.34,366.07)\org(1381.36,416.3)\fscx73.87\fscy73.76\frz-17.162\fry7.256\frx9.811\fax0.378\fnFOT-NewRodin Pro EB\fs65\c&HC9BE9F&\alpha&H80&\blur3}Odawara
+Dialogue: 1,0:12:45.16,0:12:50.87,vuatsigns,,0,0,0,,{\an8\pos(1364.34,366.07)\org(1381.36,416.3)\fscx73.87\fscy73.76\frz-17.162\fry7.256\frx9.811\fax0.378\fnFOT-NewRodin Pro EB\fs65\c&HC9BE9F&\blur1}Odawara
+Dialogue: 0,0:12:45.16,0:12:50.87,vuatsigns,,0,0,0,,{\an8\pos(1375.34,411.88)\org(1381.36,416.3)\fscx73.87\fscy73.76\frz-17.162\fry7.256\frx9.811\fax0.378\fnFOT-NewRodin Pro EB\fs65\c&HBFB395&\alpha&H80&\1a&HBD&\blur3}Şubesi
+Dialogue: 1,0:12:45.16,0:12:50.87,vuatsigns,,0,0,0,,{\an8\pos(1375.34,411.88)\org(1381.36,416.3)\fscx73.87\fscy73.76\frz-17.162\fry7.256\frx9.811\fax0.378\fnFOT-NewRodin Pro EB\fs65\c&HBFB395&\blur1}Şubesi
+Dialogue: 0,0:13:21.19,0:13:25.45,vuatsigns,,0,0,0,,{\an7\pos(1048.29,75.29)\frz340\fax-0.1\fnFOT-NewRodin Pro EB\fsp-2\bord3\c&H253630&\3c&H253630&\blur0.6}Seçim Yarışı {\alpha&HFF&\t(980,981,\alpha&H00&)}/ 1. Sıra
+Dialogue: 1,0:13:21.19,0:13:25.45,vuatsigns,,0,0,0,,{\an7\pos(1048.29,75.29)\frz340\fax-0.1\fnFOT-NewRodin Pro EB\fsp-2\c&H16E9EC&\4a&HFF&\blur1}Seçim Yarışı {\alpha&HFF&\t(980,981,\alpha&H00&)}/ 1. Sıra
+Dialogue: 0,0:13:58.69,0:14:00.49,vuatsigns,,0,0,0,,{\pos(957.77,591.67)\frz1.284\fry-0.19\frx0.15\fax-0.02\fnVAGRounded BT\fs59\c&H3B302B&\1a&H17&\blur0.8}O{\c&H3E332E&}g{\c&H413631&}a{\c&H443934&}t{\c&H473C37&}a {\c&H4D423D&}O{\c&H504540&}t{\c&H534843&}o{\c&H564B46&}m{\c&H594E49&}o{\c&H5C514C&}t{\c&H5F544F&}i{\c&H625752&}v {\c&H685D58&}L{\c&H6B605B&}t{\c&H6E635E&}d{\c&H726761&}.
+Dialogue: 1,0:15:17.27,0:15:22.23,vuatsigns,,0,0,0,,{\pos(439.66,390.77)\org(430.86,390.77)\fscx44.78\fscy70.98\frz19.562\fry-18.607\frx-0.412\fax-0.562\fnFOT-NewRodin Pro EB\xshad1\yshad1\c&H847369&\4c&H9A8F89&\1a&H0D&\blur0.6}Ogata Otomotiv
+Dialogue: 0,0:15:17.27,0:15:22.23,vuatsigns,,0,0,0,,{\pos(439.66,390.77)\org(430.86,390.77)\fscx44.78\fscy70.98\frz19.562\fry-18.607\frx-0.412\fax-0.562\fnFOT-NewRodin Pro EB\xshad2\yshad2\c&H7D6A5C&\4c&H9A8F89&\1a&HFE&\3a&HFF&\blur0.6}Ogata Otomotiv
+Dialogue: 2,0:16:41.93,0:16:44.39,vuatsigns,,0,0,0,,{\pos(918.82,436.43)\org(891.81,185.62)\fscx81.94\fscy138.46\frz-16.713\fry5.57\frx0.611\fax0.491\fnWILD1 Toxia\xshad-1.08\yshad0.92\4c&H8A8186&\blur0.8}Asakura Komaçi Caddesi
+Dialogue: 1,0:16:41.93,0:16:44.39,vuatsigns,,0,0,0,,{\pos(918.82,436.43)\org(891.81,185.62)\fscx81.94\fscy138.46\frz-16.713\fry5.57\frx0.611\fax0.491\fnWILD1 Toxia\xshad-2.17\yshad1.84\4c&H8A8186&\1a&HFE&\3a&HFF&}Asakura Komaçi Caddesi
+Dialogue: 0,0:16:41.93,0:16:44.39,vuatsigns,,0,0,0,,{\pos(918.82,436.43)\org(891.81,185.62)\fscx81.94\fscy138.46\frz-16.713\fry5.57\frx0.611\fax0.491\fnWILD1 Toxia\xshad-3.26\yshad2.77\4c&H8A8186&\1a&HFE&\3a&HFF&}Asakura Komaçi Caddesi
