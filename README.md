@@ -1,3 +1,5 @@
+## Proje süresiz olarak askıya alındı, devam edilip edilmeyeceği kesin değil.
+
 ## Emeği Geçenler
 
 | Roller         | Ekip         |
